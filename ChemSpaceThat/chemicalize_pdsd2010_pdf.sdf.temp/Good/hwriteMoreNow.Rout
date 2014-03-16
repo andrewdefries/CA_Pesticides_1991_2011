@@ -1,0 +1,58 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> ##################
+> #system("rm *.sdf")
+> #system("rm *.smi")
+> system("gzip *.png")
+> system("rm *.png")
+rm: cannot remove `*.png': No such file or directory
+> #system("unzip YAWYE_clean.sdf.gz")
+> #system("cp /home/waynebrain/Desktop/YAWYE/YAWYE_clean.sdf .")
+> #################
+> library(ChemmineR)
+> #################
+> ##data(sdfsample)
+> ##cid(sdfsample)<-sdfid(sdfsample)
+> ##sdfset<-sdfsample
+> files<-list.files(pattern=".sdf", recursive=F)
+> t<-1
+> sdfset<-read.SDFset(files[t])
+> ###############
+> cid(sdfset)<-sdfid(sdfset)
+> #write.SDF(sdfset,file="load_me.sdf", sig=T)
+> ###############
+> ################
+> smiset<-sdf2smiles(sdfset) #(sdfset[1:2])
+Using ChemmineOB
+> ################
+> WriteSdfOut<-function(a){
++ write.SDF(sdfset[[a]], file=paste(cid(sdfset[a]), ".sdf", sep=""), sig=T, cid=T)
++ }
+> a<-1:length(smiset) #change to 2 for testing
+> lapply(a,WriteSdfOut)
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: lapply -> FUN -> write.SDF -> cat -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'InChI=1S/C12H11Cl2NO/c1-4-12(2,3)15-11(16)8-5-9(13)7-10(14)6-8/h1,5-7H,2-3H3,(H,15,16).sdf': No such file or directory
+Execution halted

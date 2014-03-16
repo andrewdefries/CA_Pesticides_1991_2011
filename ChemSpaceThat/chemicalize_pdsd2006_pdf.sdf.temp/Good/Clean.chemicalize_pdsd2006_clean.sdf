@@ -1,5 +1,5 @@
 fenarimol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 24  0  0  0  0  0  0  0  0999 V2000
    -0.1105   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 DISODIUM CYANODITHIOIMIDO
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  4  0  0  0  0  0  0  0  0999 V2000
     0.3300    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ systematic __
 
 $$$$
 sulfuric acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dodecyl dodecanoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 25  0  0  0  0  0  0  0  0999 V2000
    12.8980    8.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 polyoxin D
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  36 37  0  0  0  0  0  0  0  0999 V2000
     2.2806   -9.6788    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ common __
 
 $$$$
 Lecithin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  62 61  0  0  1  0  0  0  0  0999 V2000
     7.0934   -9.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -357,7 +357,7 @@ common __
 
 $$$$
 oleic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 19  0  0  0  0  0  0  0  0999 V2000
    -1.2888    7.5059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -402,7 +402,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-thiopyridine-N-oxide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -424,7 +424,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-(hydroxymethylamino)ethanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -441,7 +441,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dimethomorph
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 29  0  0  0  0  0  0  0  0999 V2000
    -1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -503,7 +503,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 5-dimethyl-imidazolidine-2,4-dione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -527,7 +527,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 saccharine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 13  0  0  0  0  0  0  0  0999 V2000
    -0.3984    0.7541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -558,7 +558,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dodecyl Sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 16  0  0  0  0  0  0  0  0999 V2000
     3.5211    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -597,7 +597,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 N-dimethylaminosuccinamic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -624,7 +624,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Tetrapotassium Pyrophosphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13  8  0  0  0  0  0  0  0  0999 V2000
    -1.0320   -1.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -654,7 +654,7 @@ systematic __
 
 $$$$
 bromoxynil octanoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.9500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -700,7 +700,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Gibberellins
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  25 29  0  0  1  0  0  0  0  0999 V2000
     2.0754   -1.5962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -763,7 +763,7 @@ common __
 
 $$$$
 p-Chloro-o-benzylphenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -800,7 +800,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 bentazone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -839,7 +839,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fluridone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -895,7 +895,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methamidophos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -917,7 +917,7 @@ common __
 
 $$$$
 Phosmet
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -3.9284   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -962,7 +962,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sulfluramid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  31 30  0  0  0  0  0  0  0  0999 V2000
     0.1105   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1029,7 +1029,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 poly(oxyethylene)- poly(oxypropylene)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1051,7 +1051,7 @@ true __
 
 $$$$
 S-ethyl di-propylthiocarbamate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.2375   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1080,7 +1080,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Naphthalene, 1,4-dimethyl-
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 13  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1111,7 +1111,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 piperalin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.1434   -5.3625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1160,7 +1160,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Copper ethanolamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  0  0  0  0 15  0  0  0  0  0  0
@@ -1174,7 +1174,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cymoxanil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1210,7 +1210,7 @@ common __
 
 $$$$
 ethylene glycol monobutyl ether
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1231,7 +1231,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fenpyroximate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  31 33  0  0  0  0  0  0  0  0999 V2000
     2.0367   -0.4741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1301,7 +1301,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Clothianidin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.5678    4.4143    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1340,7 +1340,7 @@ common __
 
 $$$$
 Phorate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     5.3625   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1371,7 +1371,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 marmer
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1405,7 +1405,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 metolachlor
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     5.3329   -2.0329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1449,7 +1449,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ethylone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1460,7 +1460,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fluazifop-P-butyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 28  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1521,7 +1521,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Propamocarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     4.2355    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1552,7 +1552,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 DPA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 14  0  0  0  0  0  0  0  0999 V2000
     2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1585,7 +1585,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dibrom nitrilopropionamide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     2.8875   -0.7145    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1606,7 +1606,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Coumaphos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -4.2868   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1657,7 +1657,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methyl 2,5-dichlorobenzoate [2905-69-3]
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1690,7 +1690,7 @@ systematic __
 
 $$$$
 acibenzolar-S-methyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 14  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1723,7 +1723,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 carfentrazone-ethyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.1250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1782,7 +1782,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 potassium nitrate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0 15  0  0  0  0  0  0
@@ -1796,7 +1796,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Pyraclostrobin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 29  0  0  0  0  0  0  0  0999 V2000
     1.5382   -4.1980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1858,7 +1858,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Paraquat
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -1895,7 +1895,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 brodifacoum
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  35 40  0  0  0  0  0  0  0  0999 V2000
     3.5724   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -1979,7 +1979,7 @@ common __
 
 $$$$
 Thiram
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2008,7 +2008,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dimethicone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  1  0  0  0  0  0999 V2000
     0.1105   -1.2375    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2039,7 +2039,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 polyvinyl alcohol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2050,7 +2050,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 metaborate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  1  0  0  0  0  0999 V2000
     1.7605    1.8414    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -2078,7 +2078,7 @@ common __
 
 $$$$
 Methyl anthranilate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2106,7 +2106,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethyl acetate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2123,7 +2123,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 MSMA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -2139,7 +2139,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Stirofos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     2.1434    4.5375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2183,7 +2183,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 clethodim
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.0000   -2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2238,7 +2238,7 @@ common __
 
 $$$$
 prometryn
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2276,7 +2276,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -2291,7 +2291,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Profenofos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.9500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2333,7 +2333,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dicofol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
    -0.1105   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2380,7 +2380,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-Methyl-4-chlorophenoxyacetic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2412,7 +2412,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Capric Acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     4.2355    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2441,7 +2441,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Borax
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2484,7 +2484,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Naled
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.6039   -3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2515,7 +2515,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Baking Soda
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -2529,7 +2529,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 oxamyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2562,7 +2562,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Oxybis(tributyltin)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 26  0  0  0  0  0  0  0  0999 V2000
    -1.8414    2.1434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2621,7 +2621,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cuprous Thiocyanate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 Cu   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2637,7 +2637,7 @@ common __
 
 $$$$
 acrylonitrile
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2652,7 +2652,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 N,N'-Diethyl-3-methylbenzamide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2686,7 +2686,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tris
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.6500    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2707,7 +2707,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cyfluthrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  29 31  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2773,7 +2773,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Eugenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2803,7 +2803,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4-hydroxy-3-(3-oxo-1-phenylbutyl)-2H-chromen-2-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 25  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2857,7 +2857,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Propoxur
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2893,7 +2893,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 quinclorac
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -2930,7 +2930,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Metalaxyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2976,7 +2976,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 etoxazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3036,7 +3036,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-methyl-2-(methylthio)propanal O-(N-methylcarbamoyl)oxime
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3065,7 +3065,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Carbofuran
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     4.7079    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3104,7 +3104,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 aminomethanenitrile
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3115,7 +3115,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cis-9-octadecen-1-ol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
    -1.2888    7.5059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3158,7 +3158,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Gencor
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
    -3.9552    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3201,7 +3201,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-(1-hydroxy-1-methyl-ethyl)-5-methyl-cyclohexanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3231,7 +3231,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 EDTA, sodium salt
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -3283,7 +3283,7 @@ common __
 
 $$$$
 2-allyloxyethanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     1.7605    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3302,7 +3302,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 testo
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 16  0  0  0  0  0  0  0  0999 V2000
    -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3338,7 +3338,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Esfenvalerate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  30 32  0  0  1  0  0  0  0  0999 V2000
     0.7145   -2.6664    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -3406,7 +3406,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 acequinocyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
    -9.2881   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3469,7 +3469,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cephalon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -3508,7 +3508,7 @@ common __
 
 $$$$
 Calcium hypochlorite
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  2  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Ca   0  2  0  0  0 15  0  0  0  0  0  0
@@ -3521,7 +3521,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Diethoxy-[(2-isopropyl-6-methyl-4-pyrimidinyl)oxy]-thioxophosphorane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     2.8579    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3565,7 +3565,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Derris
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  29 33  0  0  1  0  0  0  0  0999 V2000
     8.8716   -0.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3633,7 +3633,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Copper triethanolamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -3662,7 +3662,7 @@ systematic __
 
 $$$$
 ?-lactose
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  1  0  0  0  0  0999 V2000
     2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3715,7 +3715,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triisopropanolamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.6039    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3746,7 +3746,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cyclanilide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     2.1434   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -3790,7 +3790,7 @@ common __
 
 $$$$
 Chloropropham
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -3827,7 +3827,7 @@ common __
 
 $$$$
 flurprimidol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -0.5230   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3881,7 +3881,7 @@ common __
 
 $$$$
 2-Butoxyethanol Acetate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3908,7 +3908,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 emamectin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  63 69  0  0  1  0  0  0  0  0999 V2000
    12.5599    0.2597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4049,7 +4049,7 @@ common __
 
 $$$$
 imidacloprid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     2.7512    0.7634    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
@@ -4090,7 +4090,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 prodiamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 24  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4147,7 +4147,7 @@ common __
 
 $$$$
 sethoxydim
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4197,7 +4197,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dettol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4223,7 +4223,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 iron phosphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Fe   0  0  0  0  0 15  0  0  0  0  0  0
@@ -4239,7 +4239,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dimethylether
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4250,7 +4250,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 metribuzin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4284,7 +4284,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 isoxaben
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4339,7 +4339,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,2-dichloroethane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4352,7 +4352,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Tetradecan-1-ol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 14  0  0  0  0  0  0  0  0999 V2000
     6.7105    4.6993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4387,7 +4387,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Benzyl benzoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4426,7 +4426,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4,5-dichlor-2-octyl-2H-isothiazole-3-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     3.5108   -4.3205    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4464,7 +4464,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 methyl oleate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 20  0  0  0  0  0  0  0  0999 V2000
    -4.0061    3.7933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4511,7 +4511,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1-Bromo-3-chloro-5,5-dimethylhydantoin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4539,7 +4539,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethanol-iodine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4555,7 +4555,7 @@ systematic __
 
 $$$$
 N-isopropyl-3-(3,5-dichlorophenyl)-2,4-dioxoimidazolidine-1-carboxamide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.1434    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4604,7 +4604,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Propargite
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
    -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4659,7 +4659,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Azadirachtin A
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  51 58  0  0  1  0  0  0  0  0999 V2000
     4.1854   -0.9645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4774,7 +4774,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Bortrioxid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4787,7 +4787,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 famoxadone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 31  0  0  0  0  0  0  0  0999 V2000
     3.7068   -1.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4852,7 +4852,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Mecoprop
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4886,7 +4886,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 diiodomethane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4897,7 +4897,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dimethylethylbenzyl ammonium chloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -4928,7 +4928,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Borea
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -4965,7 +4965,7 @@ common __
 
 $$$$
 1,3,5-hexatrienylbenzene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4995,7 +4995,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triethylamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.4750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5014,7 +5014,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sulfentrazone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5067,7 +5067,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 iso-propoxy
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5080,7 +5080,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ziram
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     3.5014    0.8889    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5114,7 +5114,7 @@ common __
 
 $$$$
 tralomethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  30 32  0  0  1  0  0  0  0  0999 V2000
    -3.1879   -6.6073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5185,7 +5185,7 @@ common __
 
 $$$$
 1-Methyl-4-prop-1-en-2-ylcyclohexen
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5211,7 +5211,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 glycine (amine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5228,7 +5228,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 beta-Pinene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 11  0  0  0  0  0  0  0  0999 V2000
     0.4287    0.6435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5255,7 +5255,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 imazamox
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -1.7871   -1.8943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5306,7 +5306,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 methyl 2-difluoromethyl-5-(4,5-dihydro-thiazol-2-yl)-4-(2-methyl-propyl)-6-trifluoromethyl-pyridine-3-carboxylate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
     0.8212    6.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5365,7 +5365,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 siduron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5406,7 +5406,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dithio Carbamate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.8250    1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5421,7 +5421,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Caprylic Acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5446,7 +5446,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 naphthalenesulfonic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5481,7 +5481,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 M-cresol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5503,7 +5503,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3-dichloro-5,5-dimethyl-2,4-imidazolidinedione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5531,7 +5531,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     4.6168   -4.5940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5591,7 +5591,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 potassium sorbate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  7  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0 15  0  0  0  0  0  0
@@ -5613,7 +5613,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tau-fluvalinate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  35 37  0  0  1  0  0  0  0  0999 V2000
    -2.1434   -3.9336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5694,7 +5694,7 @@ common __
 
 $$$$
 imidazolidine-2,4-dione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.9393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5714,7 +5714,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 hexaflumuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  29 30  0  0  0  0  0  0  0  0999 V2000
    -4.2868   -1.6500    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5779,7 +5779,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 myclobutanil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
    -0.8866   -0.6204    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -5829,7 +5829,7 @@ common __
 
 $$$$
 naphthalene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 11  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5856,7 +5856,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Betula
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5884,7 +5884,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Thymol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5912,7 +5912,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cycloate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     1.7309   -2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5946,7 +5946,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Polypropylene glycol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  8  0  0  1  0  0  0  0  0999 V2000
     3.1895    1.8414    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -5969,7 +5969,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ancymidol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     3.1257    0.7783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6015,7 +6015,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cypermethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6079,7 +6079,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 InChI=1S/C12H11Cl2NO/c1-4-12(2,3)15-11(16)8-5-9(13)7-10(14)6-8/h1,5-7H,2-3H3,(H,15,16)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    4.9500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6117,7 +6117,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3-dibromo-5,5-dimethyl-2,4-imidazolidinedione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6145,7 +6145,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Azinphosmethyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6190,7 +6190,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 EDTA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 19  0  0  0  0  0  0  0  0999 V2000
     5.0627    1.0005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6235,7 +6235,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 methoprene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 21  0  0  0  0  0  0  0  0999 V2000
     7.0125    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6284,7 +6284,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dimethylbenzylammonium salt
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6310,7 +6310,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Cinnamaldehyde
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6336,7 +6336,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Sorbitan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  1  0  0  0  0  0999 V2000
     1.2822    3.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6367,7 +6367,7 @@ common __
 
 $$$$
 bispyribac-sodium
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  32 34  0  0  0  0  0  0  0  0999 V2000
     4.2868   -2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6439,7 +6439,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dihydrogensulphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -6456,7 +6456,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 thiodicarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
     2.2836    4.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6499,7 +6499,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triclosan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6540,7 +6540,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 nabam
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -6567,7 +6567,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4-nonylphenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6605,7 +6605,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Apollo
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.8875    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6653,7 +6653,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fenpropathrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     2.3629   -1.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6713,7 +6713,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Acetamiprid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     2.1434    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6749,7 +6749,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 methyl ester
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 29  0  0  1  0  0  0  0  0999 V2000
     1.2383   -3.6793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6813,7 +6813,7 @@ common __
 
 $$$$
 1-Methylcyclopropene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  4  0  0  0  0  0  0  0  0999 V2000
     0.2382    1.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6827,7 +6827,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Tributyltin benzoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -1.4289    5.7750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -6877,7 +6877,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Oxydemeton-Methyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     5.5243    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6908,7 +6908,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 carboxin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6947,7 +6947,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methomyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6972,7 +6972,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ammonium hydrogen carbonate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -6986,7 +6986,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 5-pentyloxolan-2-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
    -0.6865   -2.4373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7014,7 +7014,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fludioxonil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 20  0  0  0  0  0  0  0  0999 V2000
    -1.2415   -1.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7058,7 +7058,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cybutryne
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     1.7309    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7099,7 +7099,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pelargonic acid (nonanoic acid)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 20  0  0  0  0  0  0  0  0999 V2000
     9.1855    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7146,7 +7146,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Zyban
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7196,7 +7196,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Fenamiphos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 19  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7240,7 +7240,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fenhexamid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -7285,7 +7285,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Phenothrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     6.5408   -6.2513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7345,7 +7345,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 trifloxystrobin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  29 30  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7413,7 +7413,7 @@ common __
 
 $$$$
 silica
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -7424,7 +7424,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Carbophos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
    -0.1914   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7467,7 +7467,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 TEA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.7289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7492,7 +7492,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-methyl-4-isothiazolin-3-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7512,7 +7512,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 isopropylamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7525,7 +7525,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Amitraz
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7576,7 +7576,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Telar
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     3.5724   -2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -7632,7 +7632,7 @@ common __
 
 $$$$
 fenbuconazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -1.9840    2.2671    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7688,7 +7688,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 n-dodecylguanidine hydrochloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7726,7 +7726,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 butanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7741,7 +7741,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pyrithione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7763,7 +7763,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 abate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 28  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7824,7 +7824,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Acephate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.9520   -0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7849,7 +7849,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Sulfone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7860,7 +7860,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Bromethalin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 28  0  0  0  0  0  0  0  0999 V2000
     0.1808    0.0186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -7921,7 +7921,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Morpholine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  6  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7939,7 +7939,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methoxyfenozide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 28  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8003,7 +8003,7 @@ common __
 
 $$$$
 Epoxyethane -
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  3  0  0  0  0  0  0  0  0999 V2000
     0.2382    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8015,7 +8015,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 InChI=1S/C27H44O/c1-19(2)8-6-9-21(4)25-15-16-26-22(10-7-17-27(25,26)5)12-13-23-18-24(28)14-11-20(23)3/h12-13,19,21,24-26,28H,3,6-11,14-18H2,1-2,4-5H3/b22-12+,23-13-/t21-,24+,25-,26?,27-/m1/s1
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  34 36  0  0  0  0  0  0  0  0999 V2000
    -0.9747    5.8655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8091,7 +8091,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 bifenazate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8142,7 +8142,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-6-(dimethylamino)-1-methyl-
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8185,7 +8185,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Iron(III) sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 12  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Fe   0  1  0  0  0 15  0  0  0  0  0  0
@@ -8220,7 +8220,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 norflurazon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8267,7 +8267,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Bensulide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
    -1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8319,7 +8319,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 citric acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.1914   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8350,7 +8350,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 3,6-Dichloro-2-pyridinecarboxylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8378,7 +8378,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 trinexapac-ethyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     3.1599    7.7270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8421,7 +8421,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 hexane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8438,7 +8438,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 forchlorfenuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     2.8579   -1.6500    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8479,7 +8479,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pymetrozine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8518,7 +8518,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-hydroxyethoxyacetaldehyde
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8537,7 +8537,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Diisooctyl phthalate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 28  0  0  0  0  0  0  0  0999 V2000
    -4.3377   -2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8599,7 +8599,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 CCC(O)OC(CC)O.CC(COCC(C)O)O
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 16  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -0.0458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8639,7 +8639,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 5-heptyloxolan-2-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -0.9836   -3.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8671,7 +8671,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sodium nitrate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -8685,7 +8685,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-Anilino-4-methyl-6-cyclopropyl-pyrimidin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 19  0  0  0  0  0  0  0  0999 V2000
     3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8727,7 +8727,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ?-linalool
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8754,7 +8754,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4H-1,3,5-Oxadiazin-4-imine, 3-(2-chloro-5-thiazolyl)methyltetrahydro-5-methyl-N-nitro-
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     3.5724    6.7661    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8797,7 +8797,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ferrous sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Fe   0  0  0  0  0 15  0  0  0  0  0  0
@@ -8813,7 +8813,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4-amino-3,6-dichloropyridine-2-carboxylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8843,7 +8843,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 prometon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8881,7 +8881,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 clomazone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4847   -0.6860    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8920,7 +8920,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 propionic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8935,7 +8935,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2,6-dichloro-4-nitroaniline
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -8965,7 +8965,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dimethyl ammonium carbonate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -8983,7 +8983,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Sodium xylene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  8  0  0  0  0  0  0  0  0999 V2000
    -0.1786    0.5156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9009,7 +9009,7 @@ systematic __
 
 $$$$
 Dimethazan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9020,7 +9020,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Disulfoton
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     5.3625   -3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9053,7 +9053,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 peroxyacetic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9068,7 +9068,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 DL-Phosphinothricin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 10  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -9099,7 +9099,7 @@ common __
 
 $$$$
 Pyrimethanil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9136,7 +9136,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 NaCN
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 Na   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9147,7 +9147,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-methoxyethanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9162,7 +9162,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pyraflufen-ethyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -1.4289   -3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9221,7 +9221,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2,6-dimethoxy
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9234,7 +9234,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Vinclozolin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     0.1624   -0.6244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9277,7 +9277,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1-(3-chloroallyl)-3,5,7-triaza-1-azoniaadamantane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 16  0  0  0  0  0  0  0  0999 V2000
     0.1163   -2.0322    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9316,7 +9316,7 @@ systematic __
 
 $$$$
 Para-tert-amylphenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9346,7 +9346,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3-dichloro-5-ethyl-5-methylimidazolidine-2,4-dione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     1.2352    0.6294    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9379,7 +9379,7 @@ systematic __
 
 $$$$
 mefluidide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9425,7 +9425,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4,5-dihydro-1H-imidazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  5  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9441,7 +9441,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 gamma-cyhalothrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  31 33  0  0  1  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9511,7 +9511,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 acrolein
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9524,7 +9524,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methyloxiran
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  4  0  0  0  0  0  0  0  0999 V2000
     0.2382    1.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9538,7 +9538,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dichlorpropene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9553,7 +9553,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2,4-Xylenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9577,7 +9577,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triethylenglykol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     2.2836    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9602,7 +9602,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fluroxypyr
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9638,7 +9638,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Phenmedipham
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9689,7 +9689,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 diflubenzuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -3.7125    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9738,7 +9738,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dimethoxane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     1.2448    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9760,7 +9760,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 glycolic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9775,7 +9775,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 thidiazuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     4.1801   -1.7116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9812,7 +9812,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 oxyfluorfen
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.8579    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9867,7 +9867,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cyhalothrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  31 33  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -9937,7 +9937,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 propetamphos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 16  0  0  0  0  0  0  0  0999 V2000
     4.1250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9979,7 +9979,7 @@ common __
 
 $$$$
 Ethyl oleate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 21  0  0  0  0  0  0  0  0999 V2000
    -0.0513    8.2204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10028,7 +10028,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 AgNO3
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Ag   0  3  0  0  0 15  0  0  0  0  0  0
@@ -10042,7 +10042,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Diethanolamin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10061,7 +10061,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Strychnine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  25 31  0  0  1  0  0  0  0  0999 V2000
     2.9057   -4.2339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10123,7 +10123,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Acrylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10138,7 +10138,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Deltamethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 30  0  0  1  0  0  0  0  0999 V2000
     2.5279   -4.1323    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -10202,7 +10202,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 peroxymonosulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.1105   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -10219,7 +10219,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Denatonium
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  33 34  0  0  0  0  0  0  0  0999 V2000
    -0.7145    1.4208    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -10292,7 +10292,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethanolamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10305,7 +10305,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 desmedipham
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10356,7 +10356,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 molinate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
    -0.5724    3.8382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10386,7 +10386,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tetramethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -5.8804   -3.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10442,7 +10442,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 boscalid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     3.5724   -0.4125    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10496,7 +10496,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triisopropylamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10521,7 +10521,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 bromadiolone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  35 39  0  0  0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -10601,7 +10601,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Copper ethylenediamine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  0  0  0  0 15  0  0  0  0  0  0
@@ -10615,7 +10615,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 glycerol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10632,7 +10632,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 octane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10653,7 +10653,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 BAP
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 19  0  0  0  0  0  0  0  0999 V2000
     2.5645    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10695,7 +10695,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 bromoxynil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -10723,7 +10723,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 trifluralin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10775,7 +10775,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 oxadiazon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     0.8212    6.0027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -10826,7 +10826,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 copper(II) sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  2  0  0  0 15  0  0  0  0  0  0
@@ -10842,7 +10842,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4-Aminopyridinen
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10862,7 +10862,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Endosulfan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 21  0  0  0  0  0  0  0  0999 V2000
    -0.4595   -2.6321    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10908,7 +10908,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Heptanoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10931,7 +10931,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 streptomycin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  40 42  0  0  1  0  0  0  0  0999 V2000
     5.8426   -0.7643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11019,7 +11019,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 copper citrate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 12  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  0  0  0  0 15  0  0  0  0  0  0
@@ -11051,7 +11051,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dimethyl tetrachloroterephthalate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -11093,7 +11093,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-methyl-2,4-pentanediol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     0.1105   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11114,7 +11114,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Sulfuryl Fluoride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11129,7 +11129,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pyrethrin I
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  1  0  0  0  0  0999 V2000
    -8.7775    2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11184,7 +11184,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 oxazolidine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  5  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11200,7 +11200,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1-Naphthaleneacetamide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11235,7 +11235,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 mepiquat chloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -11258,7 +11258,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Chlorpyrifos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -11300,7 +11300,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dimethoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     4.8099    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11329,7 +11329,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 imiprothrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.4276   -4.0550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11382,7 +11382,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 InChI=1S/C19H17Cl2N3O3/c1-13-9-25-19(27-13,10-24-12-22-11-23-24)17-7-6-16(8-18(17)21)26-15-4-2-14(20)3-5-15/h2-8,11-13H,9-10H2,1H3
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     3.7273   -1.5018    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -11445,7 +11445,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Formetanate hydrochloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -11484,7 +11484,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethalfluralin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11536,7 +11536,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sorbitol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11565,7 +11565,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  30 32  0  0  0  0  0  0  0  0999 V2000
     5.7158   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11633,7 +11633,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Citronellal
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11660,7 +11660,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ethoprop
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     4.9500   -2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11691,7 +11691,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 InChI=1S/C18H19NO4/c1-13-8-4-7-11-16(13)23-12-14-9-5-6-10-15(14)17(19-22-3)18(20)21-2/h4-11H,12H2,1-3H3/b19-17+
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11744,7 +11744,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 nicosulfuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11807,7 +11807,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sodium acrylate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -11823,7 +11823,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 OLEIC ACID oleic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  39 38  0  0  0  0  0  0  0  0999 V2000
     7.0934    9.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11909,7 +11909,7 @@ systematic __
 
 $$$$
 Ammonium nitrate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -11923,7 +11923,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Sevin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
    -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11960,7 +11960,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triadimefon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12007,7 +12007,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triclopyr
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12041,7 +12041,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 di-2 ethylhexyl sulfosuccinate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 27  0  0  0  0  0  0  0  0999 V2000
    -0.1496   -4.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12102,7 +12102,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Parol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12126,7 +12126,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 flonicamid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12164,7 +12164,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sodium dodecyl benzene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -12207,7 +12207,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dithiopyr
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  25 25  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12266,7 +12266,7 @@ common __
 
 $$$$
 SODIUM DECYL SULFATE SODIUM
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  17 14  0  0  0  0  0  0  0  0999 V2000
    -3.0960   -0.1375    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12306,7 +12306,7 @@ systematic __
 
 $$$$
 Calypso
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.2501    6.0027    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12345,7 +12345,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methiocarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12381,7 +12381,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 nerolidol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 15  0  0  1  0  0  0  0  0999 V2000
     3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12418,7 +12418,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Pyrethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     3.4456   -3.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12469,7 +12469,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Nitrapyrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12497,7 +12497,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 5-chloro-2-methyl-4-isothiazolin-3-one
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.9393    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12519,7 +12519,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Fipronil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12578,7 +12578,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Triadimenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12625,7 +12625,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 propiconazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 24  0  0  0  0  0  0  0  0999 V2000
     2.2308   -4.4153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12677,7 +12677,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3-bis(hydroxymethyl)-5,5-dimethylimidazolidinedione
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12709,7 +12709,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 maltodextrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  34 36  0  0  1  0  0  0  0  0999 V2000
    -1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12785,7 +12785,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methyl Parathion
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12823,7 +12823,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Methidathion
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.1467    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12861,7 +12861,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 buprofezin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12910,7 +12910,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triflumizole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -2.8579    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -12966,7 +12966,7 @@ common __
 
 $$$$
 etofenprox
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     4.2868   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13030,7 +13030,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 imazamethabenz
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.0735   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13080,7 +13080,7 @@ common __
 
 $$$$
 propane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13091,7 +13091,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ?-D-Glucose
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  1  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13121,7 +13121,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethofumesate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -2.6909   -1.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13166,7 +13166,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Carbendazim
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -3.1034   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13201,7 +13201,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Oryzalin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13253,7 +13253,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ?-Pinene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 11  0  0  0  0  0  0  0  0999 V2000
     0.9460   -1.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13280,7 +13280,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 copper sulfate salt
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  0  0  0  0 15  0  0  0  0  0  0
@@ -13296,7 +13296,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 biurea
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13317,7 +13317,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 hypophosphite
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -13328,7 +13328,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 vanillin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13356,7 +13356,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethoxy sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  6  0  0  0  0  0  0  0  0999 V2000
    -0.7145    0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13376,7 +13376,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 spiromesifen
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  27 29  0  0  0  0  0  0  0  0999 V2000
    -2.6698    2.7647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13438,7 +13438,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Pondmaster
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.6039   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13466,7 +13466,7 @@ common __
 
 $$$$
 Chlormequat chloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  6  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -13486,7 +13486,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 hydramethylnon
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  35 37  0  0  0  0  0  0  0  0999 V2000
    -0.8986   -1.8430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13564,7 +13564,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 halosulfuron-methyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     4.1801   -0.8866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -13627,7 +13627,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tetrasodium phosphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -13646,7 +13646,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 piperine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 23  0  0  0  0  0  0  0  0999 V2000
     5.4957    5.6479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13696,7 +13696,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 benzoate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -13720,7 +13720,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sabadilla
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  37 43  0  0  0  0  0  0  0  0999 V2000
    -3.9724   -1.8652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13809,7 +13809,7 @@ common __
 
 $$$$
 flutolanil
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13862,7 +13862,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 princep
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -13894,7 +13894,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 folpet
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -2.2784   -2.1269    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13933,7 +13933,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Oxytetracycline
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  33 36  0  0  1  0  0  0  0  0999 V2000
     2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14008,7 +14008,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 flumioxazin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 29  0  0  0  0  0  0  0  0999 V2000
    -3.5635   -0.5720    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14069,7 +14069,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sodium metasilicate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -14084,7 +14084,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 dodecylbenzene
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     3.5724   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14126,7 +14126,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 phosphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -14141,7 +14141,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Chlorite
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 O    0  5  0  0  0  0  0  0  0  0  0  0
@@ -14152,7 +14152,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Mancozeb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 18  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Mn   0  2  0  0  0 15  0  0  0  0  0  0
@@ -14198,7 +14198,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Stam
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -14233,7 +14233,7 @@ common __
 
 $$$$
 farnesol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     6.1875    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14270,7 +14270,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 (trichloromethyl) sulfone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
      0.825    -2.475     0.000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14297,7 +14297,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 S-bioallethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  1  0  0  0  0  0999 V2000
     3.4456   -3.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14351,7 +14351,7 @@ common __
 
 $$$$
 terbuthylazine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -14387,7 +14387,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4-(2-nitrobutyl)morpholine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14419,7 +14419,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tebufenozide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14481,7 +14481,7 @@ common __
 
 $$$$
 imazapyr
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     2.0735   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14526,7 +14526,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 fenamidone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 24  0  0  1  0  0  0  0  0999 V2000
    -0.5338   -2.9080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14581,7 +14581,7 @@ common __
 
 $$$$
 potassium (potassium phosphite)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  3  0  0  0  0  0  0  0  0999 V2000
     0.4125    0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -14599,7 +14599,7 @@ systematic __
 
 $$$$
 triforine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -14652,7 +14652,7 @@ common __
 
 $$$$
 cyhalofop-butyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14711,7 +14711,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Fenoxycarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14762,7 +14762,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2,5-Pyridinedicarboxylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14792,7 +14792,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ethyl bromide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -14803,7 +14803,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 maleate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  1  0  0  0  0  0999 V2000
     2.0572    1.7262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14835,7 +14835,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 GABA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14854,7 +14854,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dinotefuran
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.5678    4.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14891,7 +14891,7 @@ common __
 
 $$$$
 Propan-1,2-diol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14906,7 +14906,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 n-octanoylsucrose
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  32 33  0  0  1  0  0  0  0  0999 V2000
     2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14977,7 +14977,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pendimethalin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15023,7 +15023,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Prallethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     3.4456   -3.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15074,7 +15074,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 OUST
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  25 26  0  0  0  0  0  0  0  0999 V2000
     4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15134,7 +15134,7 @@ common __
 
 $$$$
 menthol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 11  0  0  1  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15162,7 +15162,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 hexythiazox
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -15216,7 +15216,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ansar
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -15231,7 +15231,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pyridaben
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     1.4289   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -15286,7 +15286,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 copper carbonate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cu   0  0  0  0  0 15  0  0  0  0  0  0
@@ -15300,7 +15300,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1-Octen-3-ol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15323,7 +15323,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 thiobencarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     2.0329   -1.0461    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -15361,7 +15361,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Benzenemethanaminium, N-[2-[(2,6-dimethylphenyl) amino]-2-oxoethyl]-N,N-diethyl-
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15419,7 +15419,7 @@ systematic __
 
 $$$$
 Tebuconazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -3.1637   -2.4261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -15468,7 +15468,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 carbonate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -15481,7 +15481,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tralkoxydim
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15539,7 +15539,7 @@ common __
 
 $$$$
 InChI=1S/C42H67NO10.C41H65NO10/c1-11-26-13-12-14-35(53-37-16-15-34(43(6)7)24(4)49-37)23(3)38(45)33-20-31-29(32(33)21-36(44)51-26)17-22(2)28-18-27(19-30(28)31)52-42-41(48-10)40(47-9)39(46-8)25(5)50-42;1-10-26-12-11-13-34(52-36-17-16-33(42(5)6)23(3)48-36)22(2)37(44)32-20-30-28(31(32)21-35(43)50-26)15-14-25-18-27(19-29(25)30)51-41-40(47-9)39(46-8)38(45-7)24(4)49-41/h17,20,23-32,34-35,37,39-42H,11-16,18-19,21H2,1-10H3;14-15,20,22-31,33-34,36,38-41H,10-13,16-19,21H2,1-9H3/t23-,24-,25+,26+,27-,28+,29-,30-,31-,32+,34+,35+,37+,39+,40-,41-,42+;22-,23-,24+,25-,26+,27-,28-,29-,30-,31+,33+,34+,36+,38+,39-,40-,41+/m11/s1
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
 139149  0  0  0  0  0  0  0  0999 V2000
    -3.7922   -2.8758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15833,7 +15833,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 4,4-dimethyl-1,3-oxazolidine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     1.1198    1.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15853,7 +15853,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Chlorhexidine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  34 35  0  0  0  0  0  0  0  0999 V2000
     2.1434   -8.6625    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15928,7 +15928,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 phenol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15948,7 +15948,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 triflusulfuron-methyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  32 33  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16022,7 +16022,7 @@ common __
 
 $$$$
 cacodylate ion
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -16037,7 +16037,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pirate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -16090,7 +16090,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 atrazine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -16124,7 +16124,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 retard
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16146,7 +16146,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Acetate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16159,7 +16159,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sorbitan monooleate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  30 30  0  0  0  0  0  0  0  0999 V2000
    -4.0183   -1.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16225,7 +16225,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 imazethapyr
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -1.3022   -1.2269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16274,7 +16274,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 resmethrin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     8.1813   -4.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16332,7 +16332,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Kaptan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -0.9962   -2.1269    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16371,7 +16371,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1,3,5-triazin-2,4,6-triol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16395,7 +16395,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Didion
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  26 29  0  0  0  0  0  0  0  0999 V2000
    -1.8659    0.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16456,7 +16456,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2-(4,5-dihydro-4-methyl-4-isopropyl-5-oxo-1H-imidazol-2-yl)-5-methylpyridine-3-carboxylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.0735   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16503,7 +16503,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 trisiloxane
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16518,7 +16518,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dichlorvos
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -16545,7 +16545,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 DIACETATE (9CI)
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  6  0  0  0  0  0  0  0  0999 V2000
     0.4125    0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -16568,7 +16568,7 @@ systematic __
 
 $$$$
 InChI=1S/C48H72O14.C47H70O14/c1-11-25(2)43-28(5)17-18-47(62-43)23-34-20-33(61-47)16-15-27(4)42(26(3)13-12-14-32-24-55-45-40(49)29(6)19-35(46(51)58-34)48(32,45)52)59-39-22-37(54-10)44(31(8)57-39)60-38-21-36(53-9)41(50)30(7)56-38;1-24(2)41-27(5)16-17-46(61-41)22-33-19-32(60-46)15-14-26(4)42(25(3)12-11-13-31-23-54-44-39(48)28(6)18-34(45(50)57-33)47(31,44)51)58-38-21-36(53-10)43(30(8)56-38)59-37-20-35(52-9)40(49)29(7)55-37/h12-15,17-19,25-26,28,30-31,33-45,49-50,52H,11,16,20-24H2,1-10H3;11-14,16-18,24-25,27,29-30,32-44,48-49,51H,15,19-23H2,1-10H3/b13-12+,27-15+,32-14+;12-11+,26-14+,31-13+/t25-,26-,28-,30-,31-,33+,34-,35-,36-,37-,38-,39-,40+,41-,42-,43+,44-,45+,47+,48+;25-,27-,29-,30-,32+,33-,34-,35-,36-,37-,38-,39+,40-,41+,42-,43-,44+,46+,47+/m00/s1
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
 166178  0  0  0  0  0  0  0  0999 V2000
     4.6448    1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16918,7 +16918,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Span 85
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  68 68  0  0  1  0  0  0  0  0999 V2000
    -4.9877   -3.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17063,7 +17063,7 @@ common __
 
 $$$$
 N-butyl-N-ethyl-2,6-dinitro-4-trifluoromethylaniline
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7309   -2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17115,7 +17115,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 pyriproxyfen
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17171,7 +17171,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Glutamic Acid Glutaraldehyde
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  24 23  0  0  1  0  0  0  0  0999 V2000
    16.3302    6.9533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17227,7 +17227,7 @@ systematic __
 
 $$$$
 carboxylic acid
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17238,7 +17238,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sodium phenolate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0
@@ -17259,7 +17259,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 benzyl methyl ammonium chloride
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
@@ -17284,7 +17284,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 cyromazine
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 13  0  0  0  0  0  0  0  0999 V2000
     0.4125    1.8882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17315,7 +17315,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 sulfonate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -17328,7 +17328,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Alachlor
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     6.4302   -2.8875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -17370,7 +17370,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Paclobutrazol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -17420,7 +17420,7 @@ common __
 
 $$$$
 bensulfuron-methyl
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     3.5724   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17486,7 +17486,7 @@ common __
 
 $$$$
 2,4,6,8-Tetramethyl-1,3,5,7-tetroxocan
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.9959    2.3154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17516,7 +17516,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 ZnSO4
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Zn   0  2  0  0  0 15  0  0  0  0  0  0
@@ -17532,7 +17532,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 trolnitrate phosphate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 18  0  0  0  0  0  0  0  0999 V2000
     2.8579   -8.6329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17575,7 +17575,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 phenethyl propionate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17607,7 +17607,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 NAA
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  14 15  0  0  0  0  0  0  0  0999 V2000
     0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17642,7 +17642,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Ethanol
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17653,7 +17653,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Difethialone
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  35 40  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -17734,7 +17734,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 2,6-Dichlorobenzonitrile
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17760,7 +17760,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 manganese sulfate
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Mn   0  0  0  0  0 15  0  0  0  0  0  0
@@ -17776,7 +17776,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 1-[2-(2,4-dichlorphenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17821,7 +17821,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Indoxacarb
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  36 39  0  0  1  0  0  0  0  0999 V2000
    -0.2332   -4.2849    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -17905,7 +17905,7 @@ common __
 
 $$$$
 Isobutylamin
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17920,7 +17920,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 tebuthiuron
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     1.9967    3.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17956,7 +17956,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Diquat dibromide
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
@@ -17994,7 +17994,7 @@ ChemmineR-0304142053XD
 M  END
 $$$$
 Dicamba
-ChemmineR-0304142053XD
+ChemmineR-0314140820XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0

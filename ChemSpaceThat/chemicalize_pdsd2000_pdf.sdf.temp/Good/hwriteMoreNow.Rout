@@ -1,0 +1,1897 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> ##################
+> #system("rm *.sdf")
+> #system("rm *.smi")
+> system("gzip *.png")
+> system("rm *.png")
+rm: cannot remove `*.png': No such file or directory
+> #system("unzip YAWYE_clean.sdf.gz")
+> #system("cp /home/waynebrain/Desktop/YAWYE/YAWYE_clean.sdf .")
+> #################
+> library(ChemmineR)
+> #################
+> ##data(sdfsample)
+> ##cid(sdfsample)<-sdfid(sdfsample)
+> ##sdfset<-sdfsample
+> files<-list.files(pattern=".sdf", recursive=F)
+> t<-1
+> sdfset<-read.SDFset(files[t])
+> ###############
+> cid(sdfset)<-sdfid(sdfset)
+> #write.SDF(sdfset,file="load_me.sdf", sig=T)
+> ###############
+> ################
+> smiset<-sdf2smiles(sdfset) #(sdfset[1:2])
+Using ChemmineOB
+> ################
+> WriteSdfOut<-function(a){
++ write.SDF(sdfset[[a]], file=paste(cid(sdfset[a]), ".sdf", sep=""), sig=T, cid=T)
++ }
+> a<-1:length(smiset) #change to 2 for testing
+> lapply(a,WriteSdfOut)
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+NULL
+
+[[42]]
+NULL
+
+[[43]]
+NULL
+
+[[44]]
+NULL
+
+[[45]]
+NULL
+
+[[46]]
+NULL
+
+[[47]]
+NULL
+
+[[48]]
+NULL
+
+[[49]]
+NULL
+
+[[50]]
+NULL
+
+[[51]]
+NULL
+
+[[52]]
+NULL
+
+[[53]]
+NULL
+
+[[54]]
+NULL
+
+[[55]]
+NULL
+
+[[56]]
+NULL
+
+[[57]]
+NULL
+
+[[58]]
+NULL
+
+[[59]]
+NULL
+
+[[60]]
+NULL
+
+[[61]]
+NULL
+
+[[62]]
+NULL
+
+[[63]]
+NULL
+
+[[64]]
+NULL
+
+[[65]]
+NULL
+
+[[66]]
+NULL
+
+[[67]]
+NULL
+
+[[68]]
+NULL
+
+[[69]]
+NULL
+
+[[70]]
+NULL
+
+[[71]]
+NULL
+
+[[72]]
+NULL
+
+[[73]]
+NULL
+
+[[74]]
+NULL
+
+[[75]]
+NULL
+
+[[76]]
+NULL
+
+[[77]]
+NULL
+
+[[78]]
+NULL
+
+[[79]]
+NULL
+
+[[80]]
+NULL
+
+[[81]]
+NULL
+
+[[82]]
+NULL
+
+[[83]]
+NULL
+
+[[84]]
+NULL
+
+[[85]]
+NULL
+
+[[86]]
+NULL
+
+[[87]]
+NULL
+
+[[88]]
+NULL
+
+[[89]]
+NULL
+
+[[90]]
+NULL
+
+[[91]]
+NULL
+
+[[92]]
+NULL
+
+[[93]]
+NULL
+
+[[94]]
+NULL
+
+[[95]]
+NULL
+
+[[96]]
+NULL
+
+[[97]]
+NULL
+
+[[98]]
+NULL
+
+[[99]]
+NULL
+
+[[100]]
+NULL
+
+[[101]]
+NULL
+
+[[102]]
+NULL
+
+[[103]]
+NULL
+
+[[104]]
+NULL
+
+[[105]]
+NULL
+
+[[106]]
+NULL
+
+[[107]]
+NULL
+
+[[108]]
+NULL
+
+[[109]]
+NULL
+
+[[110]]
+NULL
+
+[[111]]
+NULL
+
+[[112]]
+NULL
+
+[[113]]
+NULL
+
+[[114]]
+NULL
+
+[[115]]
+NULL
+
+[[116]]
+NULL
+
+[[117]]
+NULL
+
+[[118]]
+NULL
+
+[[119]]
+NULL
+
+[[120]]
+NULL
+
+[[121]]
+NULL
+
+[[122]]
+NULL
+
+[[123]]
+NULL
+
+[[124]]
+NULL
+
+[[125]]
+NULL
+
+[[126]]
+NULL
+
+[[127]]
+NULL
+
+[[128]]
+NULL
+
+[[129]]
+NULL
+
+[[130]]
+NULL
+
+[[131]]
+NULL
+
+[[132]]
+NULL
+
+[[133]]
+NULL
+
+[[134]]
+NULL
+
+[[135]]
+NULL
+
+[[136]]
+NULL
+
+[[137]]
+NULL
+
+[[138]]
+NULL
+
+[[139]]
+NULL
+
+[[140]]
+NULL
+
+[[141]]
+NULL
+
+[[142]]
+NULL
+
+[[143]]
+NULL
+
+[[144]]
+NULL
+
+[[145]]
+NULL
+
+[[146]]
+NULL
+
+[[147]]
+NULL
+
+[[148]]
+NULL
+
+[[149]]
+NULL
+
+[[150]]
+NULL
+
+[[151]]
+NULL
+
+[[152]]
+NULL
+
+[[153]]
+NULL
+
+[[154]]
+NULL
+
+[[155]]
+NULL
+
+[[156]]
+NULL
+
+[[157]]
+NULL
+
+[[158]]
+NULL
+
+[[159]]
+NULL
+
+[[160]]
+NULL
+
+[[161]]
+NULL
+
+[[162]]
+NULL
+
+[[163]]
+NULL
+
+[[164]]
+NULL
+
+[[165]]
+NULL
+
+[[166]]
+NULL
+
+[[167]]
+NULL
+
+[[168]]
+NULL
+
+[[169]]
+NULL
+
+[[170]]
+NULL
+
+[[171]]
+NULL
+
+[[172]]
+NULL
+
+[[173]]
+NULL
+
+[[174]]
+NULL
+
+[[175]]
+NULL
+
+[[176]]
+NULL
+
+[[177]]
+NULL
+
+> ################
+> WriteSmiOut<-function(a){
++ cid(smiset)<-cid(sdfset[a])
++ write.SMI(smi=smiset[[a]], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
++ }
+> a<-1:length(smiset) #change to 2 for testing
+> lapply(a,WriteSmiOut)
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+NULL
+
+[[42]]
+NULL
+
+[[43]]
+NULL
+
+[[44]]
+NULL
+
+[[45]]
+NULL
+
+[[46]]
+NULL
+
+[[47]]
+NULL
+
+[[48]]
+NULL
+
+[[49]]
+NULL
+
+[[50]]
+NULL
+
+[[51]]
+NULL
+
+[[52]]
+NULL
+
+[[53]]
+NULL
+
+[[54]]
+NULL
+
+[[55]]
+NULL
+
+[[56]]
+NULL
+
+[[57]]
+NULL
+
+[[58]]
+NULL
+
+[[59]]
+NULL
+
+[[60]]
+NULL
+
+[[61]]
+NULL
+
+[[62]]
+NULL
+
+[[63]]
+NULL
+
+[[64]]
+NULL
+
+[[65]]
+NULL
+
+[[66]]
+NULL
+
+[[67]]
+NULL
+
+[[68]]
+NULL
+
+[[69]]
+NULL
+
+[[70]]
+NULL
+
+[[71]]
+NULL
+
+[[72]]
+NULL
+
+[[73]]
+NULL
+
+[[74]]
+NULL
+
+[[75]]
+NULL
+
+[[76]]
+NULL
+
+[[77]]
+NULL
+
+[[78]]
+NULL
+
+[[79]]
+NULL
+
+[[80]]
+NULL
+
+[[81]]
+NULL
+
+[[82]]
+NULL
+
+[[83]]
+NULL
+
+[[84]]
+NULL
+
+[[85]]
+NULL
+
+[[86]]
+NULL
+
+[[87]]
+NULL
+
+[[88]]
+NULL
+
+[[89]]
+NULL
+
+[[90]]
+NULL
+
+[[91]]
+NULL
+
+[[92]]
+NULL
+
+[[93]]
+NULL
+
+[[94]]
+NULL
+
+[[95]]
+NULL
+
+[[96]]
+NULL
+
+[[97]]
+NULL
+
+[[98]]
+NULL
+
+[[99]]
+NULL
+
+[[100]]
+NULL
+
+[[101]]
+NULL
+
+[[102]]
+NULL
+
+[[103]]
+NULL
+
+[[104]]
+NULL
+
+[[105]]
+NULL
+
+[[106]]
+NULL
+
+[[107]]
+NULL
+
+[[108]]
+NULL
+
+[[109]]
+NULL
+
+[[110]]
+NULL
+
+[[111]]
+NULL
+
+[[112]]
+NULL
+
+[[113]]
+NULL
+
+[[114]]
+NULL
+
+[[115]]
+NULL
+
+[[116]]
+NULL
+
+[[117]]
+NULL
+
+[[118]]
+NULL
+
+[[119]]
+NULL
+
+[[120]]
+NULL
+
+[[121]]
+NULL
+
+[[122]]
+NULL
+
+[[123]]
+NULL
+
+[[124]]
+NULL
+
+[[125]]
+NULL
+
+[[126]]
+NULL
+
+[[127]]
+NULL
+
+[[128]]
+NULL
+
+[[129]]
+NULL
+
+[[130]]
+NULL
+
+[[131]]
+NULL
+
+[[132]]
+NULL
+
+[[133]]
+NULL
+
+[[134]]
+NULL
+
+[[135]]
+NULL
+
+[[136]]
+NULL
+
+[[137]]
+NULL
+
+[[138]]
+NULL
+
+[[139]]
+NULL
+
+[[140]]
+NULL
+
+[[141]]
+NULL
+
+[[142]]
+NULL
+
+[[143]]
+NULL
+
+[[144]]
+NULL
+
+[[145]]
+NULL
+
+[[146]]
+NULL
+
+[[147]]
+NULL
+
+[[148]]
+NULL
+
+[[149]]
+NULL
+
+[[150]]
+NULL
+
+[[151]]
+NULL
+
+[[152]]
+NULL
+
+[[153]]
+NULL
+
+[[154]]
+NULL
+
+[[155]]
+NULL
+
+[[156]]
+NULL
+
+[[157]]
+NULL
+
+[[158]]
+NULL
+
+[[159]]
+NULL
+
+[[160]]
+NULL
+
+[[161]]
+NULL
+
+[[162]]
+NULL
+
+[[163]]
+NULL
+
+[[164]]
+NULL
+
+[[165]]
+NULL
+
+[[166]]
+NULL
+
+[[167]]
+NULL
+
+[[168]]
+NULL
+
+[[169]]
+NULL
+
+[[170]]
+NULL
+
+[[171]]
+NULL
+
+[[172]]
+NULL
+
+[[173]]
+NULL
+
+[[174]]
+NULL
+
+[[175]]
+NULL
+
+[[176]]
+NULL
+
+[[177]]
+NULL
+
+There were 50 or more warnings (use warnings() to see the first 50)
+> ###############
+> system("for i in *.smi
++ do babel $i -O $i.png 
++ done")
+1 molecule converted
+42 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+44 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "2,5-Pyridinedicarboxylic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "2,5-Pyridinedicarboxylic"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "2-Methyl-4-chlorophenoxyacetic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "2-Methyl-4-chlorophenoxyacetic"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+43 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "acid"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "(3-phenoxyphenyl)methyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open ester.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "acid"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "(3-phenoxyphenyl)methyl"
+0 PNG_files converted
+7 errors 
+1 molecule converted
+43 audit log messages 
+1 molecule converted
+51 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+47 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+48 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Azadirachtin"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open A.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Azadirachtin"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Baking"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open Soda.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Baking"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+43 audit log messages 
+1 molecule converted
+52 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Calcium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open hypochlorite.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Calcium"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Capric"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open Acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Capric"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Copper"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open ethanolamine.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Copper"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Copper"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open triethanolamine.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Copper"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "DISODIUM"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open CYANODITHIOIMIDO.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "DISODIUM"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+51 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+51 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+44 audit log messages 
+1 molecule converted
+47 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Dimethyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open tetrachloroterephthalate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Dimethyl"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Diquat"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open dibromide.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Diquat"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+47 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ETHYL"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ALCOHOL"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ETHYLENE"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open OXIDE.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ETHYL"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ALCOHOL"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ETHYLENE"
+0 PNG_files converted
+7 errors 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+43 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Ethylene"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open glycol.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Ethylene"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+50 audit log messages 
+1 molecule converted
+45 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+50 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+47 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Methyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open anthranilate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Methyl"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "NONANOIC"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ACID"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open NONYL.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "NONANOIC"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ACID"
+0 PNG_files converted
+5 errors 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Polypropylene"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open glycol.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Polypropylene"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+44 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+50 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "S-ethyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open di-propylthiocarbamate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "S-ethyl"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+48 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "SULFONIC"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ACID"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open E,E-8,10-DODECADIEN-1-OL.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "SULFONIC"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ACID"
+0 PNG_files converted
+5 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+45 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Tetrapotassium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open Pyrophosphate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "Tetrapotassium"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+47 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+50 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+47 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "benzyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "methyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ammonium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open chloride.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "benzyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "methyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ammonium"
+0 PNG_files converted
+7 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+43 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "butyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open carbamate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "butyl"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "cacodylate"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open ion.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "cacodylate"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+48 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "copper(II)"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open sulfate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "copper(II)"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "dibrom"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open nitrilopropionamide.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "dibrom"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "dimethylethylbenzyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ammonium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open chloride.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "dimethylethylbenzyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ammonium"
+0 PNG_files converted
+5 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+44 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ethyl"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open bromide.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "ethyl"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+44 audit log messages 
+1 molecule converted
+42 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+45 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "manganese"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open sulfate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "manganese"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "mepiquat"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open chloride.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "mepiquat"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+46 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "n-dodecylguanidine"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open hydrochloride.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "n-dodecylguanidine"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+50 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+52 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "peroxyacetic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "peroxyacetic"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "poly(oxyethylene)"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open glycol.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "poly(oxyethylene)"
+0 PNG_files converted
+3 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "potassium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open nitrate.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "potassium"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "propionic"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "propionic"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+43 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "pyrethrin"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open I.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "pyrethrin"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+46 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sodium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "hydrogen"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open sulfite.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sodium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "hydrogen"
+0 PNG_files converted
+5 errors 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sodium"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sodium"
+1 PNG_file converted
+2 errors 25 audit log messages 
+1 molecule converted
+47 audit log messages 
+1 molecule converted
+48 audit log messages 
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sulfuric"
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open acid.smi
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot read input format "" for file "sulfuric"
+0 PNG_files converted
+3 errors 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+51 audit log messages 
+1 molecule converted
+48 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+49 audit log messages 
+1 molecule converted
+45 audit log messages 
+1 molecule converted
+43 audit log messages 
+1 molecule converted
+52 audit log messages 
+1 molecule converted
+45 audit log messages 
+1 molecule converted
+49 audit log messages 
+> ###############
+> #source("hwriteMoreTable.R") #works
+> source("hwriteMore.R") #fixed
+Warning message:
+In cbind(1:length(png), nnm$names, himg) :
+  number of rows of result is not a multiple of vector length (arg 1)
+> ###############
+> #system("firefox test.html")
+> ###############
+> #to do
+> #add smiles field
+> #add links to wikipedia page from chembrain repo
+> #fix ChemmineR problem to export cid of smiset
+> #use trimNeihbors of nnm to print each clid with min members in rgl space
+> #highlight compounds in cluster and print cid in webGL out
+> 
+> proc.time()
+   user  system elapsed 
+ 10.616   1.296  12.252 

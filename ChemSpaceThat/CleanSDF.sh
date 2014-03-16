@@ -41,8 +41,8 @@ cp *.R $i.temp/Good/
 cd $i.temp/Good
 
 R CMD BATCH CleanSDF.R
-#R CMD BATCH fmcsRthis.R
-#R CMD BATCH hwriteMoreNow.R
+R CMD BATCH fmcsRthis.R
+R CMD BATCH hwriteMoreNow.R
 
 ######################################
 cd ..
