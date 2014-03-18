@@ -55,3 +55,18 @@ null device
 > d <- sapply(cid(sdfset), function(x)
 + fmcsBatch(sdfset[x], sdfset, au=0, bu=0,
 + matching.mode="aromatic")[,"Overlap_Coefficient"])
+> ##################
+> ##################
+> ##################
+> hc <- hclust(as.dist(1-d), method="complete")
+> hc[["labels"]] <- cid(sdfset)
+> plot(as.dendrogram(hc), edgePar=list(col=4, lwd=2), horiz=TRUE, main="hclust of fmcsR tanimoto distances")
+> dev.off()
+null device 
+          1 
+> ##################
+> 
+> 
+> proc.time()
+    user   system  elapsed 
+25584.49     2.02 25588.57 

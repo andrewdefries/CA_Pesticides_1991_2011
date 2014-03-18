@@ -12,7 +12,8 @@ library(ChemmineR)
 ##data(sdfsample)
 ##cid(sdfsample)<-sdfid(sdfsample)
 ##sdfset<-sdfsample
-files<-list.files(pattern=".sdf", recursive=F)
+files<-list.files(pattern=".sdf.merge.sdf", recursive=F)
+####
 t<-1
 sdfset<-read.SDFset(files[t])
 ###############
