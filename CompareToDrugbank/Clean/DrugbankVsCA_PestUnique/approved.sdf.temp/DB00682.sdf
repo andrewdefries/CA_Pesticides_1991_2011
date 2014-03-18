@@ -1,0 +1,129 @@
+DB00682
+ChemmineR-0317140121XD
+
+ 23 25  0  0  0  0            999 V2000
+   -3.1875   -0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9020   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9020   -2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1875   -2.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730   -2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3848   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8138   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3848    0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3848    1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586   -0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586   -0.0375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586   -2.5125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441   -2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -2.5125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0993   -0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0993   -0.0375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+ 17  5  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6 19  1  0  0  0  0
+ 17  7  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20  7  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10  8  1  0  0  0  0
+  8 22  1  0  0  0  0
+ 22  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 14 11  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 23  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00682
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Warfarin
+
+> <SYNONYMS>
+Warfarin sodium
+
+> <BRANDS>
+Athrombin; Athrombin-K; Athrombine-K; Brumolin; Co-Rax; Coumadin; Coumadin Tabs; Coumafen; Coumafene; Coumaphen; Coumaphene; Coumarins; Coumefene; D-Con; Dethmor; Dethnel; Dicusat E; Frass-Ratron; Jantoven; Kumader; Kumadu; Kumatox; Kypfarin; Latka 42; Mar-Frin; Marevan; Maveran; Panwarfin; Place-Pax; Prothromadin; RAX; Rosex; Sofarin; Solfarin; Sorexa Plus; Temus W; Tintorane; Tox-Hid; Vampirinip II; Vampirinip III; Warf 42; Warfarat; Warfarin Plus; Warfarin Q; Warfarine; Warficide; Warfilone; Zoocoumarin
+
+> <CHEMICAL_FORMULA>
+C19H16O4
+
+> <MOLECULAR_WEIGHT>
+308.3279
+
+> <EXACT_MASS>
+308.104859
+
+> <IUPAC_NAME>
+4-hydroxy-3-(3-oxo-1-phenylbutyl)-2H-chromen-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H16O4/c1-12(20)11-15(13-7-3-2-4-8-13)17-18(21)14-9-5-6-10-16(14)23-19(17)22/h2-10,15,21H,11H2,1H3
+
+> <INCHI_KEY>
+InChIKey=PJVWKTKQMONHTI-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.33
+
+> <JCHEM_BASIC_PKA>
+-6.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.74
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+31.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.6
+
+> <JCHEM_REFRACTIVITY>
+86.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.72e-02 g/l __  __ 
+
+$$$$

@@ -1,0 +1,1000 @@
+  371  cat 3830.smi
+  372  ls
+  373  exit
+  374  top
+  375  screen -r
+  376  exit
+  377  cd ..
+  378  ls
+  379  git clone http://github.com/andrewdefries/ClickableActives
+  380  ls
+  381  cd ClickableActives/
+  382  ls
+  383  cd ..
+  384  cp Tripos/*.R ClickableActives/
+  385  cp Tripos/*.sh ClickableActives/
+  386  cd ClickableActives/
+  387  ls
+  388  pico hwriteMoreNow.R 
+  389  ls
+  390  git rm ClickableActives.sdf 
+  391  ls
+  392  git rm ClickableActives.sdf 
+  393  pico hwriteMoreNow.R 
+  394  ls
+  395  pico ShowMeTripos.sh 
+  396  ls
+  397  mv ShowMeTripos.sh ShowMeClickableArabidopsisActives.sh
+  398  ls
+  399  pico fmcsRthis.R 
+  400  ls
+  401  ./ShowMeClickableArabidopsisActives.sh 
+  402  cat ShowMeClickableArabidopsisActives.sh 
+  403  chmod +x ShowMeClickableArabidopsisActives.sh 
+  404  ./ShowMeClickableArabidopsisActives.sh 
+  405  s
+  406  ls
+  407  mkdir hide
+  408  mv ClidNeighbors.png.gz hide/
+  409  ls
+  410  cat fmcsRthis.Rout 
+  411  ls
+  412  R
+  413  pico hwriteMoreNow.R
+  414  R
+  415  pico fmcsRthis.R
+  416  R
+  417  ls
+  418  R
+  419  mv *.gz hide/
+  420  R
+  421  ls
+  422  mv *.png hide/
+  423  ls
+  424  pico hwriteMoreNow.R
+  425  R
+  426  pico hwriteMoreNow.R
+  427  la
+  428  ls
+  429  R
+  430  pico hwriteMoreNow.R
+  431  git pull
+  432  ls
+  433  git pull
+  434  ls
+  435  cd ..
+  436  ls
+  437  cd ClickableActives/
+  438  ls
+  439  git pull
+  440  ls
+  441  cd SaccharomycesActives/
+  442  ls
+  443  wget https://www.dropbox.com/s/tno2s4vrhqjw46i/ClickableYeastActives.sdf
+  444  ls
+  445  cd ..
+  446  ls
+  447  cd ArabidopsisActives/
+  448  pico fmcsRthis.R
+  449  ls
+  450  cd ..
+  451  ls
+  452  cp ArabidopsisActives/*.R SaccharomycesActives/
+  453  cp ArabidopsisActives/*.sh SaccharomycesActives/
+  454  cd SaccharomycesActives/
+  455  ls
+  456  mv ShowMeArabidopsisActives.sh ShowMeActives.sh
+  457  ls
+  458  pico hwriteMoreNow.R 
+  459  ls
+  460  pico fmcsRthis.R 
+  461  pico ClickableYeastActives.sdf 
+  462  ls
+  463  pico hwriteMoreNow.R 
+  464  R
+  465  ./ShowMeActives.sh 
+  466  ls
+  467  R
+  468  pico hwriteMoreNow.R
+  469  R
+  470  pico hwriteMoreNow.R
+  471  ls
+  472  rm *.gz
+  473  ./ShowMeActives.sh 
+  474  ls
+  475  R
+  476  pico hwriteMoreNow.R
+  477  ls
+  478  rm *.gz
+  479  ./ShowMeActives.sh 
+  480  ls
+  481  R
+  482  pico hwriteMoreNow.R
+  483  R
+  484  pico hwriteMoreNow.R
+  485  R
+  486  pico hwriteMoreNow.R
+  487  R
+  488  pico ClickableYeastActives.sdf 
+  489  pico hwriteMoreNow.R
+  490  pico ClickableYeastActives.sdf 
+  491  R
+  492  pico hwriteMoreNow.R
+  493  R
+  494  pico hwriteMoreNow.R
+  495  ls
+  496  rm *.gz
+  497  R
+  498  ls
+  499  pico fmcsRthis.R
+  500  pico hwriteMoreNow.R
+  501  ls
+  502  ./ShowMeActives.sh 
+  503  ls
+  504  rm *.png
+  505  ls
+  506  pico hwriteMoreNow.R
+  507  ls
+  508  ./ShowMeActives.sh 
+  509  ls
+  510  cat CLK026B08.smi
+  511  cd ..
+  512  git add *
+  513  git commit -m 'fixed the yeast'
+  514  git push
+  515  cd ..
+  516  ls
+  517  cd ClickableActives/
+  518  ls
+  519  git status
+  520  ls
+  521  git status
+  522  ls
+  523  cd Raikhel
+  524  ls
+  525  cd ArabidopsisActives/
+  526  ls
+  527  mkdir ArabidopsisActives_Vs_Antifungals
+  528  mkdir ArabidopsisActives_Vs_Herbicides
+  529  mkdir ArabidopsisActives_Vs_Drugbank
+  530  cd ArabidopsisActives_Vs_Antifungals/
+  531  ls
+  532  cd ..
+  533  ls
+  534  git clone http://github.com/andrewdefries/babelmash
+  535  ls
+  536  cd babelmash/
+  537  ls
+  538  cd CA_Pesticides/
+  539  ls
+  540  cd ..
+  541  ls
+  542  rm -r CA_Pesticides/
+  543  ls
+  544  cd Mashed_ViewPort/
+  545  ls
+  546  cd BabelMash
+  547  ls
+  548  cat CleanSDF.sh~ 
+  549  ls
+  550  cd RunHere/
+  551  ls
+  552  ls -l
+  553  cd ..
+  554  ls
+  555  cp babelmash/Mashed_ViewPort/BabelMash/RunHere/*.sdf ClickableActives/ArabidopsisActives/ArabidopsisActives_Vs_Antifungals/
+  556  cd ClickableActives/ArabidopsisActives/ArabidopsisActives_Vs_Antifungals/
+  557  ls
+  558  ls -l
+  559  mkdir hide 
+  560  mv all.sdf approved.sdf experimental.sdf illicit.sdf small_molecule.sdf withdrawn.sdf hide/
+  561  ls
+  562  ls -l
+  563  mv nutraceutical.sdf tox_benchmark_N6512_name.sdf Mash.sdf hide/
+  564  ls
+  565  ls -l
+  566  mv SuperLATCA.sdf hide/
+  567  ls
+  568  ls -l
+  569  cat Clean.73PlantActivesFromKaschaniClean.sdf 
+  570  ls
+  571  ls -l
+  572  cd ..
+  573  ls
+  574  cp *.R ArabidopsisActives_Vs_Antifungals/
+  575  cp *.sh ArabidopsisActives_Vs_Antifungals/
+  576  cd ArabidopsisActives_Vs_Antifungals/
+  577  ls
+  578  cd ..
+  579  ls
+  580  cp ClickableArabidopsisActives.sdf ArabidopsisActives_Vs_Antifungals/
+  581  cd ArabidopsisActives_Vs_Antifungals/
+  582  ls
+  583  ls -l
+  584  pico fmcsRthis.R 
+  585  ls
+  586  ls *.sdf -l
+  587  mv Clean.73PlantActivesFromKaschaniClean.sdf Kashani73.sdf
+  588  ls *.sdf -l
+  589  mv Clean.chemicalize_ARS_PesticideShort_pdf.sdf ARS_Pesticide.sdf
+  590  ls *.sdf -l
+  591  mv Clean.chemicalize_globalfungicidedirectory_pdf.sdf GlobalFungicideDirectory.sdf
+  592  ls *.sdf -l
+  593  mv Clean.FreemansChemSpace_Clean.sdf FreemansChemSpace.sdf
+  594  ls *.sdf -l
+  595  mv Clean.GlobalHerbicideDirectory.sdf GlobalHerbicideDirectory.sdf
+  596  mv Clean.HintFromDow.sdf HintFromDow.sdf
+  597  ls *.sdf -l
+  598  R
+  599  ls
+  600  pico hwriteMoreNow.R 
+  601  ls
+  602  pico hwriteMoreNow.R 
+  603  pico hwriteMore.R 
+  604  ls
+  605  pico fmcsRthis.R 
+  606  pico hwriteMoreNow.R 
+  607  pico fmcsRthis.R 
+  608  ls
+  609  git rm ShowMeArabidopsisActives.sh 
+  610  touch DoWork.sh
+  611  pico DoWork.sh 
+  612  ls
+  613  mkdir hide
+  614  mv ClickableArabidopsisActives.sdf hide/
+  615  ls
+  616  ls -l
+  617  chmod +x DoWork.sh 
+  618  ./DoWork.sh 
+  619  ls
+  620  rm -r *.temp
+  621  ls
+  622  pico DoWork.sh 
+  623  ./DoWork.sh 
+  624  ls
+  625  cd FreemansChemSpace.sdf.temp/
+  626  ls
+  627  ls *.html
+  628  R
+  629  cd ..
+  630  ls
+  631  pico hwriteMoreNow.R 
+  632  rm -r *.temp
+  633  ls
+  634  ./DoWork.sh 
+  635  ls
+  636  cd ARS_Pesticide.sdf
+  637  cd ARS_Pesticide.sdf.temp/
+  638  ls
+  639  ls *.html
+  640  R
+  641  cd ..
+  642  ls
+  643  rm -r *.temp
+  644  ls
+  645  pico hwriteMoreNow.R 
+  646  ls
+  647  R
+  648  mkdir test
+  649  cp *.R test/
+  650  cp ARS_Pesticide.sdf test/
+  651  cd test/
+  652  R
+  653  cd ..
+  654  pico hwriteMoreNow.R 
+  655  R
+  656  pico hwriteMoreNow.R 
+  657  ls
+  658  ./DoWork.sh 
+  659  ls
+  660  cd ARS_Pesticide.sdf.temp/
+  661  ls
+  662  R
+  663  pico hwriteMoreNow.R
+  664  R
+  665  pico hwriteMoreNow.R
+  666  R
+  667  pico hwriteMoreNow.R
+  668  R
+  669  pico hwriteMoreNow.R
+  670  cd ..
+  671  ls
+  672  rm -r *.temp
+  673  ls
+  674  pico hwriteMoreNow.R 
+  675  ./DoWork.sh 
+  676  ls
+  677  cd ARS_Pesticide.sdf
+  678  ls
+  679  cd ARS_Pesticide.sdf.temp/
+  680  ls
+  681  ls *.html
+  682  cat test.html 
+  683  ls
+  684  cat pebulate.smi
+  685  cat test.html 
+  686  s
+  687  ls
+  688  cd ..
+  689  ls
+  690  cd GlobalHerbicideDirectory.sdf.temp/
+  691  ls
+  692  cd ..
+  693  ls
+  694  cd ..
+  695  ls
+  696  git add *
+  697  git commit -m 'fixed the db2table w hwriter mod'
+  698  git push 
+  699  git pull
+  700  ls
+  701  cd ArabidopsisActives/ArabidopsisActives_Vs_Antifungals/
+  702  pico hwriteMoreNow.R 
+  703  ls
+  704  rm *.temp
+  705  rm -r *.temp
+  706  ls
+  707  cd h
+  708  cd hide
+  709  ls
+  710  cd ..
+  711  ls
+  712  ./DoWork.sh 
+  713  ls
+  714  cd GlobalHerbicideDirectory.sdf.temp/
+  715  ls
+  716  ls | less
+  717  cd ..
+  718  git add *
+  719  git commit -m 'improvements xnay ?'
+  720  git push
+  721  ls
+  722  cd ArabidopsisActives/
+  723  ls
+  724  cd ArabidopsisActives_Vs_Antifungals/
+  725  cd ..
+  726  mkdir CompareSpace
+  727  cp -r ArabidopsisActives_Vs_Antifungals/ CompareSpace/
+  728  cd CompareSpace/
+  729  ls
+  730  rm -r ArabidopsisActives_Vs_Antifungals/
+  731  cd ..
+  732  cp ArabidopsisActives_Vs_Antifungals/* CompareSpace/
+  733  cd CompareSpace/
+  734  ls
+  735  cd ..
+  736  cp ArabidopsisActives_Vs_Antifungals/hide/* CompareSpace/
+  737  cd CompareSpace/
+  738  ls
+  739  mv DoWork.sh DoMergeWork.sh
+  740  pico DoMergeWork.sh 
+  741  ls
+  742  pico DoMergeWork.sh 
+  743  ls
+  744  babel ARS_Pesticide.sdf ClickableArabidopsisActives.sdf -O test.sdf.sdf
+  745  ls
+  746  rm test.sdf.sdf 
+  747  ./DoMergeWork.sh 
+  748  ls
+  749  cd ..
+  750  git add *
+  751  git commit -m 'merge with query before hwrite'
+  752  git push
+  753  cd ArabidopsisActives/CompareSpace/
+  754  ls
+  755  cd ARS_Pesticide.sdf
+  756  cd ARS_Pesticide.sdf.temp/
+  757  ls
+  758  ls *.html
+  759  R
+  760  cd ..
+  761  ls
+  762  rm *.temp
+  763  rm -r *.temp
+  764  ls
+  765  pico hwriteMoreNow.R 
+  766  ls
+  767  pico hwriteMoreNow.R 
+  768  ls
+  769  pico DoMergeWork.sh 
+  770  ls
+  771  pico fmcsRthis.R 
+  772  pico DoMergeWork.sh 
+  773  pico hwriteMoreNow.R 
+  774  ls
+  775  ./DoMergeWork.sh 
+  776  ls
+  777  cd ARS_Pesticide.sdf.temp/
+  778  ls
+  779  ls *.html
+  780  R
+  781  ls
+  782  cd ..
+  783  ls
+  784  rm -r *.temp
+  785  ls
+  786  pico hwriteMoreNow.R 
+  787  ls
+  788  ./DoMergeWork.sh 
+  789  cd ARS_Pesticide.sdf.temp/
+  790  ls
+  791  ls *.html
+  792  R
+  793  pico hwriteMoreNow.R
+  794  R
+  795  ls
+  796  rm *.gz
+  797  ls
+  798  R
+  799  ls *.html
+  800  pico hwriteMoreNow.R
+  801  cd ..
+  802  mv hwriteMoreNow.R .
+  803  rm hwriteMoreNow.R 
+  804  mv ARS_Pesticide.sdf.temp/hwriteMoreNow.R .
+  805  ls
+  806  rm -r *.temp
+  807  ./DoMergeWork.sh 
+  808  ls
+  809  cd ARS_Pesticide.sdf.temp/
+  810  ls
+  811  cat test.html 
+  812  cd ..
+  813  ls
+  814  cd FreemansChemSpace.sdf
+  815  cd FreemansChemSpace.sdf.temp/
+  816  ls
+  817  cd ..
+  818  ls
+  819  rm -r *.temp
+  820  pico hwriteMoreNow.R 
+  821  ls
+  822  ./DoMergeWork.sh 
+  823  cd ARS_Pesticide.sdf
+  824  cd ARS_Pesticide.sdf.temp/
+  825  ls
+  826  ls *.html
+  827  cd ..
+  828  ls
+  829  cd FreemansChemSpace.sdf.temp/
+  830  ls
+  831  ls *.html
+  832  cd ..
+  833  ls
+  834  rm -r *.temp
+  835  pico hwriteMoreNow.R 
+  836  ls
+  837  ./DoMergeWork.sh 
+  838  ld
+  839  ls
+  840  cd ARS_Pesticide.sdf.temp/
+  841  ls
+  842  cd ..
+  843  rm -r *.temp
+  844  pico hwriteMoreNow.R 
+  845  ./DoMergeWork.sh 
+  846  ls
+  847  cd ARS_Pesticide.sdf
+  848  cd ARS_Pesticide.sdf.temp/
+  849  ls
+  850  cd ..
+  851  pico hwriteMoreNow.R 
+  852  ls
+  853  rm -r *.temp
+  854  ./DoMergeWork.sh 
+  855  rm -r *.temp
+  856  pico hwriteMoreNow.R 
+  857  ./DoMergeWork.sh 
+  858  cd ARS_Pesticide.sdf
+  859  cd ARS_Pesticide.sdf.temp/
+  860  R
+  861  cd ..
+  862  pico hwriteMoreNow.R 
+  863  rm -r *.temp
+  864  ./DoMergeWork.sh 
+  865  rm -r *.temp
+  866  pico hwriteMoreNow.R 
+  867  ./DoMergeWork.sh 
+  868  top
+  869  cd ..
+  870  ls
+  871  cd ClickableActives/
+  872  ls
+  873  pico hwriteMoreNow.R
+  874  pico ClickableArabidopsisActives.sdf 
+  875  pico fmcsRthis.R
+  876  pico hwriteMoreNow.R
+  877  ls
+  878  cat ShowMeClickableArabidopsisActives.sh 
+  879  ./ShowMeClickableArabidopsisActives.sh 
+  880  ls
+  881  pico hwriteMoreNow.R
+  882  ls
+  883  SDF_hide
+  884  mv CACCA_RH.sdf SDF_hide
+  885  ls
+  886  R
+  887  pico hwriteMoreNow.R
+  888  pico fmcsRthis.R
+  889  pico hwriteMoreNow.R
+  890  R
+  891  pico hwriteMoreNow.R
+  892  pico fmcsRthis.R
+  893  pico hwriteMoreNow.R
+  894  ls
+  895  ./ShowMeClickableArabidopsisActives.sh 
+  896  ls
+  897  cat hwriteMoreNow.Rout 
+  898  pico fmcsRthis.R
+  899  pico hwriteMoreNow.R
+  900  ls
+  901  pico hwriteMoreNow.R
+  902  ls
+  903  rm *.png
+  904  ls
+  905  ./ShowMeClickableArabidopsisActives.sh 
+  906  ls
+  907  rm *.gz hide
+  908  mv *.gz hide
+  909  ls
+  910  R
+  911  ls
+  912  cd SDF_hide 
+  913  cd h
+  914  cd hide
+  915  ls
+  916  cd ..
+  917  rm SDF_hide 
+  918  git pull
+  919  ls
+  920  rm -r hide/
+  921  ls
+  922  rm ClickableArabidopsisActives.sdf 
+  923  ls
+  924  cd ..
+  925  ls
+  926  cp ClickableActives/ShowMeClickableArabidopsisActives.sh .
+  927  cp ClickableActives/*.R .
+  928  ls
+  929  sudo rm -r ClickableActives/
+  930  git clone http://github.com/ClickableActives
+  931  git clone http://github.com/andrewdefries/ClickableActives
+  932  ls
+  933  mv *.R ClickableActives/
+  934  mv ShowMeClickableArabidopsisActives.sh ClickableActives/
+  935  cd ClickableActives/
+  936  ls
+  937  pico ClickableArabidopsisActives.sdf 
+  938  ls
+  939  pico fmcsRthis.R 
+  940  pico hwriteMoreNow.R 
+  941  ./ShowMeClickableArabidopsisActives.sh 
+  942  ls
+  943  mkdir hids
+  944  mv *.gz hids
+  945  ls
+  946  R
+  947  ls
+  948  ls *.sdf
+  949  ls *.sdf -l
+  950  pico hwriteMoreNow.R
+  951  ls *.sdf -l
+  952  pico hwriteMoreNow.R
+  953  pico fmcsRthis.R
+  954  ls
+  955  rm ClickableActives.sdf 
+  956  ./ShowMeClickableArabidopsisActives.sh 
+  957  R
+  958  pico hwriteMoreNow.R
+  959  R
+  960  ls
+  961  mkdir RaikhelActives
+  962  mv RaikhelPNAS.sdf 
+  963  mv RaikhelPNAS.sdf RaikhelActives/
+  964  cp *.R RaikhelActives/
+  965  mv *.sh RaikhelActives/
+  966  ls
+  967  mkdir ArabidopsisActives
+  968  mv ClickableArabidopsisActives.sdf ArabidopsisActives/
+  969  ls
+  970  mkdir SaccharomycesActives
+  971  ls
+  972  rm ClickableYeastActives.sdf 
+  973  ls
+  974  rm -r hids/
+  975  rm *.gz
+  976  ls
+  977  rm *.Rout
+  978  ls
+  979  .gitignore
+  980  cd RaikhelActives/
+  981  ls
+  982  pico RaikhelPNAS.sdf 
+  983  ls
+  984  mv ShowMeClickableArabidopsisActives.sh ShowMeRaikhelPNAS.sh
+  985  pico fmcsRthis.R 
+  986  pico hwriteMoreNow.R 
+  987  pico fmcsRthis.R 
+  988  ./ShowMeRaikhelPNAS.sh 
+  989  ls
+  990  cd ..
+  991  ls
+  992  rm -r fmcsR_space.rda 
+  993  ls
+  994  git add *
+  995  git commit -m 'nothing runs yet'
+  996  git pushj
+  997  git push
+  998  pico fmcsRthis.R 
+  999  pico hwriteMoreNow.R 
+ 1000  ls
+ 1001  pico hwriteMoreNow.R 
+ 1002  pico fmcsRthis.R 
+ 1003  cd RaikhelActives/
+ 1004  ls
+ 1005  pico fmcsRthis.R
+ 1006  pico hwriteMoreNow.R
+ 1007  ls
+ 1008  rm *.smi
+ 1009  ls
+ 1010  rm *.gz
+ 1011  ls
+ 1012  rm *.png
+ 1013  ls
+ 1014  cd ..
+ 1015  cp RaikhelActives/RaikhelPNAS.sdf .
+ 1016  cd RaikhelPNAS.sdf 
+ 1017  ls
+ 1018  cd Raikhel
+ 1019  cd RaikhelActives/
+ 1020  ls
+ 1021  rm _*.sdf
+ 1022  ls
+ 1023  rm CLK*
+ 1024  ls
+ 1025  ./ShowMeRaikhelPNAS.sh 
+ 1026  ls
+ 1027  cd ..
+ 1028  git add *
+ 1029  git commit -m 'fixes in Raikhel folder'
+ 1030  git push
+ 1031  ls -l
+ 1032  cd RaikhelActives/
+ 1033  ls
+ 1034  ls -l
+ 1035  pico hwriteMore.R 
+ 1036  pico hwriteMoreNow.R
+ 1037  pico hwriteMore.R 
+ 1038  pico hwriteMoreNow.R
+ 1039  la
+ 1040  ls
+ 1041  cat CLK033G09.smi
+ 1042  pico hwriteMoreNow.R
+ 1043  ls
+ 1044  rm *.png
+ 1045  ls
+ 1046  rm *.gz
+ 1047  ls
+ 1048  pico hwriteMoreNow.R
+ 1049  ls
+ 1050  rm CLK*
+ 1051  ls
+ 1052  pico hwriteMoreNow.R
+ 1053  ls
+ 1054  ./ShowMeRaikhelPNAS.sh 
+ 1055  ls
+ 1056  git add *
+ 1057  git commit -m 'fix check'
+ 1058  git push
+ 1059  cd ..
+ 1060  ls
+ 1061  cd ArabidopsisActives/
+ 1062  ls
+ 1063  pico ClickableArabidopsisActives.sdf 
+ 1064  R
+ 1065  ls
+ 1066  cd ..
+ 1067  cp *.R ArabidopsisActives/
+ 1068  ls
+ 1069  cd ArabidopsisActives/
+ 1070  ls
+ 1071  touch ShowMeArabidopsisActives.sh
+ 1072  pico ShowMeArabidopsisActives.sh 
+ 1073  ls
+ 1074  pico hwriteMoreNow.R 
+ 1075  R
+ 1076  pico hwriteMoreNow.R 
+ 1077  ls
+ 1078  rm CLK*
+ 1079  ls
+ 1080  pico hwriteMoreNow.R 
+ 1081  R
+ 1082  ls
+ 1083  pico hwriteMoreNow.R 
+ 1084  R
+ 1085  ls
+ 1086  pico hwriteMoreNow.R 
+ 1087  R
+ 1088  ls
+ 1089  pico hwriteMoreNow.R 
+ 1090  R
+ 1091  ls
+ 1092  pico fmcsRthis.R 
+ 1093  ls
+ 1094  chmod +x ShowMeArabidopsisActives.sh 
+ 1095  ./ShowMeArabidopsisActives.sh 
+ 1096  ls
+ 1097  cd ..
+ 1098  git add *
+ 1099  git commit -m 'fixed Arabidopsis Actives'
+ 1100  git push
+ 1101  cd ArabidopsisActives/
+ 1102  ls
+ 1103  pico hwriteMoreNow.R
+ 1104  ls
+ 1105  R
+ 1106  ls
+ 1107  cat CLK021D08.smi
+ 1108  pico hwriteMoreNow.R
+ 1109  pico fmcsRthis.R
+ 1110  ls
+ 1111  ./ShowMeArabidopsisActives.sh 
+ 1112  ls
+ 1113  cd ..
+ 1114  git add *
+ 1115  git commit -m 'fixed char bug'
+ 1116  git push
+ 1117  cd ArabidopsisActives/
+ 1118  ls
+ 1119  cat CLK021D08.smi
+ 1120  pico hwriteMoreNow.R
+ 1121  cd ..
+ 1122  cd RaikhelPNAS.sdf 
+ 1123  cd RaikhelActives/
+ 1124  pico hwriteMoreNow.R
+ 1125  cd ..
+ 1126  cd ArabidopsisActives/
+ 1127  pico fmcsRthis.R
+ 1128  cd ..
+ 1129  cd RaikhelActives
+ 1130  head fmcsRthis.R
+ 1131  pico fmcsRthis.R
+ 1132  ls
+ 1133  cd ..
+ 1134  cd ArabidopsisActives/
+ 1135  pico fmcsRthis.R
+ 1136  pico hwriteMoreNow.R
+ 1137  ls
+ 1138  rm *.gz
+ 1139  ls
+ 1140  ./ShowMeArabidopsisActives.sh 
+ 1141  R
+ 1142  pico fmcsRthis.R
+ 1143  ./ShowMeArabidopsisActives.sh 
+ 1144  pico hwriteMoreNow.R
+ 1145  ./ShowMeArabidopsisActives.sh 
+ 1146  ls
+ 1147  cat CMP111.sdf 
+ 1148  cat CMP111.smi 
+ 1149  pico hwriteMoreNow.R
+ 1150  R
+ 1151  ls
+ 1152  rm *.gz
+ 1153  ls
+ 1154  rm CMP*
+ 1155  ls
+ 1156  R
+ 1157  ls
+ 1158  cat CLK021D08.smi
+ 1159  pico fmcsRthis.R
+ 1160  ./ShowMeArabidopsisActives.sh 
+ 1161  ls
+ 1162  cat CLK021D08.smi
+ 1163  cd ..
+ 1164  git add *
+ 1165  git commit -m 'fixed it'
+ 1166  git push
+ 1167  cd ..
+ 1168  ls
+ 1169  cd ClickableActives/
+ 1170  cd SaccharomycesActives/
+ 1171  ls
+ 1172  cd ..
+ 1173  ls
+ 1174  cd CA_Pesticides_1991_2011/
+ 1175  git pull
+ 1176  ls
+ 1177  cd ChemSpaceThat/
+ 1178  ls
+ 1179  rm *.temp
+ 1180  rm -r *.temp
+ 1181  ls
+ 1182  rm *.Rout
+ 1183  ls
+ 1184  pico CleanSDF.sh 
+ 1185  ls
+ 1186  pico hwriteMoreNow.R 
+ 1187  pico CleanSDF.sh 
+ 1188  pico hwriteMoreNow.R 
+ 1189  ls
+ 1190  ./CleanSDF.sh 
+ 1191  ls
+ 1192  ls 
+ 1193  cd chemicalize_pdsd2000_pdf.sdf
+ 1194  cd chemicalize_pdsd2000_pdf.sdf.temp
+ 1195  ls
+ 1196  cd Good/
+ 1197  ls
+ 1198  ls *.gz
+ 1199  ls *.html
+ 1200  cd ..
+ 1201  ls
+ 1202  cd ..
+ 1203  rm -r *.temp
+ 1204  ls
+ 1205  cat CleanSDF.sh 
+ 1206  ./CleanSDF.sh 
+ 1207  cd ..
+ 1208  cd CA_Pesticides_1991_2011/ls
+ 1209  ls
+ 1210  cd CA_Pesticides_1991_2011/
+ 1211  ls
+ 1212  cd ChemSpaceThat/
+ 1213  ls
+ 1214  cd chemicalize_pdsd1991_pdf.sdf
+ 1215  ls
+ 1216  cd chemicalize_pdsd1991_pdf.sdf.temp/
+ 1217  ls
+ 1218  cd Good/
+ 1219  ls
+ 1220  ls *.html
+ 1221  cd ..
+ 1222  cd ..
+ 1223  ls
+ 1224  cd ClickableActives/
+ 1225  ls
+ 1226  cd ArabidopsisActives/ArabidopsisActives_Vs_Antifungals/
+ 1227  ls
+ 1228  ls *.temp
+ 1229  ls
+ 1230  ls *.temp
+ 1231  ls
+ 1232  cd ARS_Pesticide.sdf.temp/
+ 1233  ls
+ 1234  ls *.html
+ 1235  ls *.R
+ 1236  cd ..
+ 1237  ls
+ 1238  cd ARS_Pesticide.sdf
+ 1239  cd ARS_Pesticide.sdf.temp/
+ 1240  ls
+ 1241  ls *.png
+ 1242  R
+ 1243  top
+ 1244  exit
+ 1245  ls
+ 1246  screen -r
+ 1247  cd CA_Pesticides_1991_2011/
+ 1248  ls
+ 1249  cd ChemSpaceThat/
+ 1250  ls
+ 1251  cd chemicalize_pdsd2011_pdf.sdf.temp/
+ 1252  ls
+ 1253  cd Good/
+ 1254  ls
+ 1255  ls *.html
+ 1256  ls
+ 1257  ls *.png
+ 1258  ls *.gz
+ 1259  cd ..
+ 1260  ls
+ 1261  cd ..
+ 1262  git status
+ 1263  git add *
+ 1264  ls
+ 1265  cd ChemSpaceThat/
+ 1266  ls
+ 1267  git commit -m 'ran on all some bugs, run again'
+ 1268  git push
+ 1269  ls
+ 1270  cd CompareSpace/
+ 1271  ls
+ 1272  cd ..
+ 1273  pico hwriteMoreNow.R 
+ 1274  screen
+ 1275  exit
+ 1276  screen -r
+ 1277  exit
+ 1278  ls
+ 1279  cd CompareSpace/
+ 1280  ls
+ 1281  cd ShowViaTable/
+ 1282  ls
+ 1283  cd bin0
+ 1284  ls
+ 1285  chmod +x RunNow.sh 
+ 1286  ./RunNow.sh 
+ 1287  ls
+ 1288  rm *
+ 1289  ls
+ 1290  ./RunNow.sh 
+ 1291  ls
+ 1292  ./RunNow.sh 
+ 1293  ls
+ 1294  cd Clean.chemicalize_pdsd1991_clean.sdf.runtime/
+ 1295  ls
+ 1296  ls *.html
+ 1297  cat test.html 
+ 1298  cd ..
+ 1299  ls
+ 1300  cd Clean.chemicalize_pdsd1995_clean.sdf.runtime/
+ 1301  ls
+ 1302  ls *.html
+ 1303  cat test.html
+ 1304  cd ..
+ 1305  du -sh
+ 1306  sudo df -h
+ 1307  exit
+ 1308  screen -r
+ 1309  exit
+ 1310  screen
+ 1311  exit
+ 1312  screen -r
+ 1313  screen -r 5432.pts-0.pesticides
+ 1314  screen -r
+ 1315  screen -r 2292.pts-0.pesticides
+ 1316  screen -r 5432.pts-0.pesticides
+ 1317  screen -r 2292.pts-0.pesticides
+ 1318  top
+ 1319  ls
+ 1320  sudo rm -r Ames_ToxBenchmark/
+ 1321  cd DrugBank/
+ 1322  ls
+ 1323  cd ..
+ 1324  cd DrugBank/
+ 1325  git status
+ 1326  ls
+ 1327  cd ..
+ 1328  ls
+ 1329  sudo rm -r DrugBank/
+ 1330  ls
+ 1331  cd CA_Pesticides_1991_2011/
+ 1332  ls
+ 1333  cd CompareToDrugbank/
+ 1334  ls
+ 1335  cd Clean
+ 1336  ls
+ 1337  cd Clean.chemicalize_pdsd1991.sdf.temp
+ 1338  cd Clean.chemicalize_pdsd1991_pdf.sdf.temp
+ 1339  ls
+ 1340  ls CLK*
+ 1341  ls
+ 1342  ls *.html
+ 1343  cd ..
+ 1344  ls
+ 1345  pico DoMergeWork.sh 
+ 1346  cd Clean.chemicalize_pdsd2008_pdf.sdf.temp/
+ 1347  ls
+ 1348  ls DB*
+ 1349  cd ..
+ 1350  ls
+ 1351  cd withdrawn.sdf.temp/
+ 1352  ls
+ 1353  cd ..
+ 1354  ls
+ 1355  cd small_molecule.sdf.temp/
+ 1356  ls
+ 1357  cd ..
+ 1358  ls
+ 1359  cd illicit.sdf.temp/
+ 1360  ls
+ 1361  cd ..
+ 1362  ls
+ 1363  pico DoMergeWork.sh 
+ 1364  pico Clean.chemicalize_pdsd* -O CA_PestMerge.sdf
+ 1365  babel Clean.chemicalize_pdsd* -O CA_PestMerge.sdf
+ 1366  ls
+ 1367  pico CA_PestMerge.sdf
+ 1368  babel CA_PestMerge.sdf -O CA_PestMergeUnique.sdf --unique
+ 1369  history
+ 1370  history > BabelWorkToMergeNUnique.txt
