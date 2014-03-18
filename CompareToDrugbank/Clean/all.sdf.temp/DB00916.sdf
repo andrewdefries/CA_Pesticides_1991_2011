@@ -1,0 +1,105 @@
+DB00916
+ChemmineR-0317140120XD
+
+ 12 12  0  0  0  0            999 V2000
+    2.3876   -1.5382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1674    1.3064    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7258   -0.0526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022    0.5244    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6897    1.7939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5542    0.7543    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1022   -0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5147    1.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00916
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Metronidazole
+
+> <SYNONYMS>
+Methronidazole; Metronidazol; Metronidazole Benzoate; Metronidazole Hcl; Metronidazole in Plastic Container; Metronidazolo
+
+> <BRANDS>
+Acromona; Anagiardil; Apo-Metronidazole; Arilin; Atrivyl; Bayer 5360; Bexon; Clont; Cont; Danizol; Deflamon; Deflamon-Wirkstoff; Efloran; Elyzol; Entizol; Eumin; Flagemona; Flagesol; Flagil; Flagyl; Flagyl ER; Flagyl I.V.; Flegyl; Fossyol; Giatricol; Gineflavir; Klion; Klont; Meronidal; Metric 21; Metro Cream; Metro I.V.; Metro I.V. In Plastic Container; Metrocream; Metrogel; Metrogel-Vaginal; Metrolag; Metrolotion; Metrolyl; Metromidol; Metronidaz; Metrotop; Mexibol; Monagyl; Monasin; Nalox; Neo-Tric; Nida; Nidagel; Noritate; Novonidazol; Orvagil; Protostat; Rathimed; Sanatrichom; Satric; Takimetol; Trichazol; Trichex; Tricho Cordes; Tricho-Gynaedron; Trichocide; Trichomol; Trichopal; Trichopol; Tricocet; Tricom; Tricowas B; Trikacide; Trikamon; Trikojol; Trikozol; Trimeks; Trivazol; Vagilen; Vagimid; Vertisal; Wagitran; Zadstat
+
+> <CHEMICAL_FORMULA>
+C6H9N3O3
+
+> <MOLECULAR_WEIGHT>
+171.154
+
+> <EXACT_MASS>
+171.064391169
+
+> <IUPAC_NAME>
+2-(2-methyl-5-nitro-1H-imidazol-1-yl)ethan-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9N3O3/c1-5-7-4-6(9(11)12)8(5)2-3-10/h4,10H,2-3H2,1H3
+
+> <INCHI_KEY>
+InChIKey=VAOCPAMSLUNLGC-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(N1CCO)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.44
+
+> <JCHEM_BASIC_PKA>
+3.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.15
+
+> <JCHEM_LOGP>
+-0.46
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+15.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.87
+
+> <JCHEM_REFRACTIVITY>
+41.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.92e+00 g/l __  __ 
+
+$$$$

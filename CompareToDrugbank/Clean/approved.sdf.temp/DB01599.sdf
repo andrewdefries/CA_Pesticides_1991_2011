@@ -1,0 +1,152 @@
+DB01599
+ChemmineR-0317140121XD
+
+ 35 36  0  0  0  0            999 V2000
+    5.2224    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4765   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8264   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9685    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4929   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6679   -0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7949   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3974    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0475    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 28  1  0  0  0  0
+  7 29  1  0  0  0  0
+  7 30  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 31  1  0  0  0  0
+  8 32  1  0  0  0  0
+  8 33  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 21 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01599
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Probucol
+
+> <SYNONYMS>
+4,4'- (Isopropylidenedithio)bis(2, 6-di-tert-butylphenol); 4,4'-(Isopropylidenedithio)bis(2, 6-di-tert-butylphenol); 4,4'-(Isopropylidenedithio)bis(2,6-di-tert-butylphenol); 4,4'-(Isopropylidenedithio)bis[2, 6-di-tert-butylphenol]; Acetone bis(3,5-di-tert-butyl-4-hydroxyphenyl) mercaptole; Acetone, bis (3,5-di-tert-butyl-4-hydroxyphenyl) mercaptole; Acetone, bis(3,5-di-tert-butyl-4-hydroxyphenyl) mercaptole; Probucolum [inn-latin]
+
+> <BRANDS>
+Biphenabid; Bisbid; Bisphenabid; Lesterol; Lorelco; Lursell; Lurselle; Panavir; Sinlestal
+
+> <CHEMICAL_FORMULA>
+C31H48O2S2
+
+> <MOLECULAR_WEIGHT>
+516.842
+
+> <EXACT_MASS>
+516.30957216
+
+> <IUPAC_NAME>
+2,6-di-tert-butyl-4-({2-[(3,5-di-tert-butyl-4-hydroxyphenyl)sulfanyl]propan-2-yl}sulfanyl)phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C31H48O2S2/c1-27(2,3)21-15-19(16-22(25(21)32)28(4,5)6)34-31(13,14)35-20-17-23(29(7,8)9)26(33)24(18-20)30(10,11)12/h15-18,32-33H,1-14H3
+
+> <INCHI_KEY>
+InChIKey=FYPMFJGVHOHGLL-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(SC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C)SC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.29
+
+> <JCHEM_BASIC_PKA>
+-5.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+8.92
+
+> <JCHEM_LOGP>
+10.57
+
+> <ALOGPS_LOGS>
+-7.1
+
+> <JCHEM_POLARIZABILITY>
+62.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+159.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <ALOGPS_SOLUBILITY>
+4.18e-05 g/l __  __ 
+
+$$$$

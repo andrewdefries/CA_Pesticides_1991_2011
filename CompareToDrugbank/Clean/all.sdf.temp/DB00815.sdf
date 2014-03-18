@@ -1,0 +1,112 @@
+DB00815
+ChemmineR-0317140120XD
+
+ 18 16  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2393   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9538    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6682   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3827    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0972   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8116    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5261   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2406    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9551   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6695    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3840   -0.2669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0985    0.1456    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.8129   -0.2669    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5274    0.1456    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   12.2419    0.5581    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+   11.9399   -0.5689    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.1149    0.8601    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00815
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sodium lauryl sulfate
+
+> <SYNONYMS>
+Dodecyl alcohol, hydrogen sulfate, sodium salt; Dodecyl sodium sulfate; Dodecyl sulfate sodium; Dodecyl sulfate sodium salt; Dodecyl sulfate, sodium salt; Lauryl sodium sulfate; Lauryl sulfate sodium; Lauryl sulfate sodium salt; Lauryl sulfate, sodium salt; Laurylsiran sodny [czech]; Lauyl sodium sulfate; Monododecyl sodium sulfate; N-dodecyl sulfate sodium; NADDS; NALS; Natrium laurylsulfuricum; Natriumlaurylsulfat; SDS; Sodium dodecyl sulfate; Sodium lauryl sulphate; Sodium monododecyl sulfate; Sodium monolauryl sulfate; Sodium n-dodecyl sulfate; Sodiumlauryl ether sulfate; Sulfuric acid dodecyl ester sodium salt; Sulfuric acid monododecyl ester sodium salt; Sulfuric acid, monododecyl ester, sodium salt
+
+> <BRANDS>
+Adeka Hope LS 35; Adeka Hope LS 90; Akyposal NLS; Akyposal SDS; Alscoap LN 40A; Alscoap LN 90; Alscoap MP 90N; Alscoap SP 40; Alscoap-LN 90P; Anticerumen; Aquarex me; Aquarex methyl; Avirol 101; Avirol 118 conc; Avirol SL 2010; Berol 452; Bio-Soft SDBS 60; Calfoam ES 303; Calfoam SLS 30; Carsonol SLS; Carsonol SLS paste b; Carsonol SLS special; Carsonol SLS-s; Caswell No. 779; Conco sulfate wa; Conco sulfate WA-1200; Conco sulfate WA-1245; Conco sulfate WAG; Conco sulfate WAN; Conco sulfate WAS; Conco sulfate WN; Cycloryl 21; Cycloryl 21LS; Cycloryl 31; Cycloryl 580; Cycloryl 585N; Dehydag sulfate GL; Dehydag sulfate GL emulsion; Dehydag sulphate GL emulsion; Dehydrag sulfate GL emulsion; Dermacide; Detergent 66; Dreft; Dupanol waq; Duponal; Duponal waqe; Duponol; Duponol c; Duponol ME; Duponol methyl; Duponol QC; Duponol QX; Duponol WA; Duponol WA DRY; Duponol WAQ; Duponol waqa; Duponol waqe; Duponol waqm; Emal 10; Emal 10 Needle; Emal 10 Powder; Emal 2F; Emal 2F Needle; Emal 2F30; Emal o; Emal os; Emersal 6400; Empicol 0303; Empicol 0303VA; Empicol BSD 70; Empicol LPZ; Empicol LS 30; Empicol LX 2; Empicol LX 28; Empicol LX 28R; Empicol LX 42; Empicol LXSV 938U; Empicol LXV; Empicol LY 28S; Empicol LZ/D; Empimin SDS; Emulsogen LS; Equex S; Equex SP; Finasol OSR 2; Finasol osr(sub 2); Finasol OSR2; Fongrapol LSS; Gardinol; Gardinol type detergent; Genapol LSS; Hexamol SLS; Incronol SLS; Irium; Jordanol SL-300; K 12 (surfactant); Lanette wax s; Lanette wax-s; Maprobix neu; Maprofix 563; Maprofix LK; Maprofix neu; Maprofix wac; Maprofix wac-la; Melanol CL; Melanol CL 30; Monagen Y 100; Monogen LH; Monogen Y 100; Monogen Y 500; Montopol LA paste; Needle 10; Neutrazyme; Nikkol SLS; Nissan persoft SP; Nissan Sintrex L 100; Odoripon Al 95; Orvus WA; Orvus WA paste; Perklankrol ESD 60; Perlandrol L; Perlankrol E.S.D. 60; Perlankrol L; Pionin A 21; Polystep B 3; Polystep B 5; Quolac ex-ub; Rewopol NLS 28; Rewopol NLS 30; Rhodapon LCP; Rhodapon LSB; Rhodapon SB; Rhodapon SB 8208S; Rhodapon SM; Rhodapon UB; Richonol A; Richonol AF; Richonol C; Rolpon LS; Rosulfan L 1; Sandet ona; Silipon RN 6031; Sinnopon LS 100; Sinnopon LS 95; Sinolin 90TK-N; Sintapon l; Sintrex L 100; Sipex op; Sipex SB; Sipex SD; Sipex SP; Sipex ub; Sipon LCS 98; Sipon LS; Sipon LS 100; Sipon LSB; Sipon PD; Sipon ub; Sipon WD; Solsol needles; Sorpol 5029O; Sorpol 8070; Standapol 112 conc; Standapol WA-AC; Standapol WAQ; Standapol WAQ special; Standapol WAQ-LC; Standapol WAS 100; Stanfax 234; Steinapol NLS; Steinapol NLS 90; Stepanal WAC; Stepanol ME; Stepanol ME DRY; Stepanol ME DRY AW; Stepanol ME DRY SLS; Stepanol methyl; Stepanol methyl DRY AW; Stepanol T 28; Stepanol WA; Stepanol WA 100; Stepanol WA extra; Stepanol WA paste; Stepanol WA special; Stepanol WA-100; Stepanol WAC; Stepanol WAQ; Sterling WA paste; Sterling waq-CH; Sterling waq-cosmetic; Sulfetal L 95; Sulfochem SLS; Sulfolyser; Sulfopon T 30; Sulfopon WA 1; Sulfopon WA 1 Special; Sulfopon WA 2; Sulfopon WA 3; Sulfopon WA1 Special; Sulfopon WA2; Sulfopon WA3; Sulfotex WA; Sulfotex wala; Sunnol LM 1130; Supralate C; Surfactant K12; Surfax 220; Swascol 1P; Swascol 3L; Swascol 4L; Syntapon L; Tarapon K 12; Texapon DL conc.; Texapon K 12; Texapon K 1296; Texapon K 1298; Texapon K 12G; Texapon K12; Texapon K1296; Texapon L 100; Texapon V HC; Texapon V HC powder; Texapon Z high conc. needles; Texapon ZHC; Trepenol WA; Ufarol AM 30; Ufarol TCL 92; Ultra sulfate SL-1; WAQE; Witcolate A
+
+> <CHEMICAL_FORMULA>
+C12H25NaO4S
+
+> <MOLECULAR_WEIGHT>
+288.379
+
+> <EXACT_MASS>
+288.137124653
+
+> <IUPAC_NAME>
+sodium dodecyl sulfate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H26O4S.Na/c1-2-3-4-5-6-7-8-9-10-11-12-16-17(13,14)15;/h2-12H2,1H3,(H,13,14,15);/q;+1/p-1
+
+> <INCHI_KEY>
+InChIKey=DBMJMQXJHONAFJ-UHFFFAOYSA-M
+
+> <SMILES>
+[Na+].CCCCCCCCCCCCOS([O-])(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-1.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.86
+
+> <JCHEM_LOGP>
+4.42
+
+> <ALOGPS_LOGS>
+-4.4
+
+> <JCHEM_POLARIZABILITY>
+31.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.43
+
+> <JCHEM_REFRACTIVITY>
+67.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <ALOGPS_SOLUBILITY>
+1.21e-02 g/l __  __ 
+
+$$$$

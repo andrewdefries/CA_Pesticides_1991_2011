@@ -1,0 +1,124 @@
+DB01239
+ChemmineR-0317140120XD
+
+ 22 24  0  0  0  0            999 V2000
+   -2.7107   -0.7366    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4252   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4252   -1.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7107   -2.3866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9962   -1.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9962   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2818   -0.7366    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2818   -2.3866    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5673   -1.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5673   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1471   -0.7366    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1471   -2.3866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8616   -1.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8616   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5761   -0.7366    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2818    0.0884    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8651    0.6718    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8651    1.4968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5796    1.9093    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9921    2.6237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1630    1.3259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5673    0.5009    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  6  5  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 10  9  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+  7 16  2  0  0  0  0
+ 16 17  1  4  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01239
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorprothixene
+
+> <SYNONYMS>
+Alpha-Chlorprothixene; Chloroprothixene; Chlorprothixen; Chlorprothixine; Chlorprotixen; Chlorprotixene; Chlorprotixine; Chlothixen; Cis-Chlorprothixene
+
+> <BRANDS>
+Iaractan; Paxyl; Rentovet; Tactaran; Taractan; Tarasan; Tardan; Traquilan; Trictal; Truxal; Truxaletten; Truxil; Vetacalm
+
+> <CHEMICAL_FORMULA>
+C18H18ClNS
+
+> <MOLECULAR_WEIGHT>
+315.86
+
+> <EXACT_MASS>
+315.084847978
+
+> <IUPAC_NAME>
+[3-(2-chloro-9H-thioxanthen-9-ylidene)propyl]dimethylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H18ClNS/c1-20(2)11-5-7-14-15-6-3-4-8-17(15)21-18-10-9-13(19)12-16(14)18/h3-4,6-10,12H,5,11H2,1-2H3/b14-7+
+
+> <INCHI_KEY>
+InChIKey=WSPOMRSOLSGNFJ-VGOFMYFVSA-N
+
+> <SMILES>
+[H]C(CCN(C)C)=C1C2=CC(Cl)=CC=C2SC2=C1C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+5.42
+
+> <JCHEM_LOGP>
+5.07
+
+> <ALOGPS_LOGS>
+-5.9
+
+> <JCHEM_POLARIZABILITY>
+35.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+104.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.66e-04 g/l __  __ 
+
+$$$$

@@ -1,0 +1,100 @@
+DB01577
+ChemmineR-0317140121XD
+
+ 11 11  0  0  1  0            999 V2000
+    3.0791    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01577
+
+> <DRUG_GROUPS>
+illicit; approved
+
+> <GENERIC_NAME>
+Methamphetamine
+
+> <SYNONYMS>
+(+ )-methylamphetamine; (+)-(s)-deoxyephedrine; (+)-(s)-n-alpha-dimethylphenethylamine; (+)-2-(N-Methylamino)-1-phenylpropane; (+)-methamphetamine; (+)-methylamphetamine; (+)-n-methylamphetamine; (+)-n,alpha-dimethyl-beta-phenylethylamine; (+)-n,alpha-dimethylphenethylamine; (2S)-N-methyl-1-phenylpropan-2-amine; (s)-(+)-deoxyephedrine; (s)-(+)-methamphetamine; (s)-(+)-n,alpha,dimethylphenethylamine; (s)-methamphetamine; (s)-methylamphetamine; (s)-n,alpha-dimethylbenzeneethanamine; (s)-n,alpha-dimethylbenzeneethanoamine; 1-Phenyl-2-methylamino-propan [German]; 1-Phenyl-2-methylaminopropane; 2S-(+)-Methamphetamine; D-(s)-methamphetamine; d-1-Phenyl-2-methylaminopropan [German]; D-1-Phenyl-2-methylaminopropane; D-deoxyephedrine; D-desoxyephedrine; D-methamphetamine; D-methylamphetamine; D-n-methylamphetamine; D-n,alpha-dimethylphenethylamine; D-phenylisopropylmethylamine; Desoxyephedrine hydrochloride; Ice; L-methamphetamine; Metamfetamina [inn-spanish]; Metamfetaminum [inn-latin]; Metamphetamine; Metanfetamina [inn-spanish]; Meth; Methamphetaminum [inn-latin]; Methyl-beta-phenylisopropylamine; Methylamphetamine; N-Methyl-1-phenyl-2-propanamine; N-methyl-beta-phenylisopropylamin [german]; N-methyl-beta-phenylisopropylamine; N-methylamphetamine; S-(+)-methamphetamine
+
+> <BRANDS>
+Desoxyn; Desyphed; Desyphed hydrochloride; Metamfetamine; Metamfetamine-m; Norodin; Speed; Stimulex
+
+> <CHEMICAL_FORMULA>
+C10H15N
+
+> <MOLECULAR_WEIGHT>
+149.2328
+
+> <EXACT_MASS>
+149.120449485
+
+> <IUPAC_NAME>
+methyl[(2S)-1-phenylpropan-2-yl]amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=MYWUZJCMWCOHBA-VIFPVBQESA-N
+
+> <SMILES>
+CN[C@@H](C)CC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.21
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.23
+
+> <JCHEM_LOGP>
+2.24
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+18.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+48.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+9.28e-01 g/l __  __ 
+
+$$$$
