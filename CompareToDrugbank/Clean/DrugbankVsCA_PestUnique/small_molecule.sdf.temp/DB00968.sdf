@@ -1,0 +1,111 @@
+DB00968
+ OpenBabel03181421282D
+
+ 15 15  0  0  1  0  0  0  0  0999 V2000
+    4.9509    2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8240    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5220    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6490    0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4 15  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00968
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methyldopa
+
+> <SYNONYMS>
+Alpha medopa; Alphamethyldopa; AMD; L-Methyl Dopa; α-methyl-L-dopa
+
+> <BRANDS>
+Aldomet; Aldometil; Aldomin; Aldoril; Baypresol; Becanta; Dopamet; Dopatec; Dopegyt; Grospisk; Hyperpax; Hypolag; Medomet; Medopa; Medopal; Medopren; Methoplain; Novomedopa; Nu-Medopa; Presinol; Presolisin; Sedometil; Sembrina
+
+> <CHEMICAL_FORMULA>
+C10H13NO4
+
+> <MOLECULAR_WEIGHT>
+211.2145
+
+> <EXACT_MASS>
+211.084457909
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(3,4-dihydroxyphenyl)-2-methylpropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13NO4/c1-10(11,9(14)15)5-6-2-3-7(12)8(13)4-6/h2-4,12-13H,5,11H2,1H3,(H,14,15)/t10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CJCSPKMFHVPWAR-JTQLQIEISA-N
+
+> <SMILES>
+C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.73
+
+> <JCHEM_BASIC_PKA>
+9.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+20.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.78
+
+> <JCHEM_REFRACTIVITY>
+53.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.26e+00 g/l __ __ 
+
+$$$$

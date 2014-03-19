@@ -1,7 +1,7 @@
 DB06201
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 17 18  0  0  0  0            999 V2000
+ 17 18  0  0  0  0  0  0  0  0999 V2000
     4.5079   -0.4567    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
     1.6500   -0.4567    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
     6.2552    0.2184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -48,7 +48,7 @@ approved
 Rufinamide
 
 > <SYNONYMS>
-CGP 33101; E 2080; RUF 331; Xilep 
+CGP 33101; E 2080; RUF 331; Xilep
 
 > <BRANDS>
 Banzel ; Inovelon
@@ -111,6 +111,6 @@ NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1
 3
 
 > <ALOGPS_SOLUBILITY>
-6.42e-01 g/l __  __ 
+6.42e-01 g/l __ __ 
 
 $$$$

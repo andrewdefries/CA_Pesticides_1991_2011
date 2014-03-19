@@ -1,0 +1,109 @@
+DB00874
+ OpenBabel03181421282D
+
+ 14 14  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -0.1279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1096    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5080    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00874
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Guaifenesin
+
+> <SYNONYMS>
+Glycerin guaiacolate; Glycerin monoguaiacol ether; Glycero-guaiacol ether; Glycerol guaiacolate; Glyceryl guaiacol; Glyceryl guaiacol ether; Glyceryl guaiacolate; Glyceryl guaiacolate ether; Glyceryl guaiacyl ether; Glyceryl guaicolate; Glyceryl guiacolate; Guiaphenesin; Metfenossidiolo; Methoxypropanediol; Methphenoxydiol; Metossipropandiolo; o-Methoxyphenyl glyceryl ether
+
+> <BRANDS>
+Actifed-C; Aeronesin; Amonidren; Amonidrin; Anti-Tuss; Aresol; Balminil Expectorant; Benylin-E; Breonesin; Bronchol; Calmipan; Calmylin Expectorant; Colrex expectorant; Cortussin; Creson; Diabetic Tussin EX; Dilyn; Dorassin; Equicol; Fenesin; Flartussin; Gaiamar; Gee-Gee; Genatuss; Glycodex; Glycotuss; Glytuss; Gnaifenesin; Guaia-rom; Guaiacol glycerin ether; Guaiacol glycerol ether; Guaiacol glyceryl ether; Guaiacolglicerinetere; Guaiacuran; Guaiacurane; Guaiacyl glyceryl ether; Guaiamar; Guaianesin; Guaicol glycerine ether; Guaicol glyceryl ether; Guaiphenesin; Guaiphenesine; Guaiphesin; Guajacol-glycerinaether; Guajacuran; Guajamar; Guanar; Guayanesin; Guiatuss; Gvaja; Halotussin; Humibid L.A; Humibid Sprinkle; Hustodil; Hustosil; Hytuss; Hytuss-2X; Mintosyl; Miocaina; Miocurin; Miorelax; Mucinex; Mucostop; Muskurelax; Myocain; Myocaine; Myorelax; Myoscain; Myoscaine; Naldecon Senior EX; Neuroton; Neurotone; Oresol; Oreson; Organidin NR; Pneumomist; Propanosedyl; Reduton; Relaxil G; Relaxyl-G; Reorganin; Resil; Respenyl; Respil; Resyl; Ritussin; Robitussin; Scot-tussin Expectorant; Sinumist-SR; Sirotol; Tenntus; Tenntuss; Tolyn; Touro EX; Tulyl; Tulyn; Uni-tussin
+
+> <CHEMICAL_FORMULA>
+C10H14O4
+
+> <MOLECULAR_WEIGHT>
+198.2158
+
+> <EXACT_MASS>
+198.089208936
+
+> <IUPAC_NAME>
+3-(2-methoxyphenoxy)propane-1,2-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O4/c1-13-9-4-2-3-5-10(9)14-7-8(12)6-11/h2-5,8,11-12H,6-7H2,1H3
+
+> <INCHI_KEY>
+InChIKey=HSRJKNPTNIJEKV-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC=CC=C1OCC(O)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.62
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.76
+
+> <JCHEM_LOGP>
+0.34
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+20.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.92
+
+> <JCHEM_REFRACTIVITY>
+51.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.49e+01 g/l __ __ 
+
+$$$$

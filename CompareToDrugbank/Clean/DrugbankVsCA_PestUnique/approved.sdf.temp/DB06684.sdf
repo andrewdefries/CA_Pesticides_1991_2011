@@ -1,7 +1,7 @@
 DB06684
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 Created with ChemWriter - http://chemwriter.com
- 33 37  0  0  0  0            999 V2000
+ 33 37  0  0  0  0  0  0  0  0999 V2000
    11.9391   -1.8446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    13.6581   -0.4662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.5860    0.4694    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,6 +149,6 @@ NC(=O)C1=CC2=C(O1)C=CC(=C2)N1CCN(CCCCC2=CNC3=C2C=C(C=C3)C#N)CC1
 7
 
 > <ALOGPS_SOLUBILITY>
-1.23e-01 g/l __  __ 
+1.23e-01 g/l __ __ 
 
 $$$$

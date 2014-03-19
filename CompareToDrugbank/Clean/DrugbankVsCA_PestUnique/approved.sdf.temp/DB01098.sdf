@@ -1,7 +1,7 @@
 DB01098
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 33 34  0  0  1  0            999 V2000
+ 33 34  0  0  1  0  0  0  0  0999 V2000
    -0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,13 +37,13 @@ ChemmineR-0317140121XD
    -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  2  0  0  0  0
   2  7  1  0  0  0  0
+  2  6  1  0  0  0  0
   3  1  1  0  0  0  0
   3 11  1  0  0  0  0
   3  4  2  0  0  0  0
   4 18  1  0  0  0  0
   4  5  1  0  0  0  0
   5  8  1  0  0  0  0
-  2  6  1  0  0  0  0
   5  6  2  0  0  0  0
   7 31  1  0  0  0  0
   7 33  1  0  0  0  0
@@ -53,16 +53,16 @@ ChemmineR-0317140121XD
  11 16  1  0  0  0  0
  12 13  1  0  0  0  0
  13 14  2  0  0  0  0
- 15 14  1  0  0  0  0
  14 17  1  0  0  0  0
+ 15 14  1  0  0  0  0
  16 15  2  0  0  0  0
  18 19  2  0  0  0  0
- 19 20  1  0  0  0  0
+ 20 19  1  1  0  0  0
  20 21  1  0  0  0  0
- 20 28  1  1  0  0  0
- 21 22  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 22 21  1  1  0  0  0
  22 23  1  0  0  0  0
- 22 27  1  1  0  0  0
+ 22 27  1  0  0  0  0
  23 24  1  0  0  0  0
  24 25  2  0  0  0  0
  24 26  1  0  0  0  0
@@ -80,7 +80,7 @@ approved
 Rosuvastatin
 
 > <SYNONYMS>
-Rosuvastatin calcium ; ZD-4522 
+Rosuvastatin calcium ; ZD-4522
 
 > <BRANDS>
 Astende; Cirantan; Cresadex; Crestor; Provisacor ; Razel; Rosedex; Rosimol; Rosumed; Rosustatin; Rosuvas; Rosuvast; Rosvel; Rovartal; Simestat; Sinlip; Visacor; Vivacor
@@ -143,6 +143,6 @@ CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1\C=C\[C@@H](O)C[C@@H](O)CC(=O)O)N(C)S(C)(=O)=O
 9
 
 > <ALOGPS_SOLUBILITY>
-8.86e-02 g/l __  __ 
+8.86e-02 g/l __ __ 
 
 $$$$

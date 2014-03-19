@@ -1,7 +1,7 @@
 DB06716
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 19 19  0  0  0  0            999 V2000
+ 19 19  0  0  0  0  0  0  0  0999 V2000
     5.2224    1.6005    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     3.7935   -0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.5080    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ Fospropofol
 GPI 15715
 
 > <SALTS>
-Fospropofol Disodium 
+Fospropofol Disodium
 
 > <BRANDS>
 Aquavan; Lusedra
@@ -117,6 +117,6 @@ CC(C)C1=CC=CC(C(C)C)=C1OCOP(O)(O)=O
 6
 
 > <ALOGPS_SOLUBILITY>
-3.02e-01 g/l __  __ 
+3.02e-01 g/l __ __ 
 
 $$$$

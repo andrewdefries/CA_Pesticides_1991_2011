@@ -1,0 +1,108 @@
+DB00165
+ OpenBabel03181421282D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    2.5098   -1.5964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5098    0.8787    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6533    1.2912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -1.1839    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2243   -0.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9388    0.0537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2243   -1.1839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9388   -1.5964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5098    0.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9388    0.8786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6533   -0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9387   -2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00165
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Pyridoxine
+
+> <SYNONYMS>
+Pyridoxol; Vitamin B6
+
+> <SALTS>
+pyridoxine hydrochloride
+
+> <BRANDS>
+Aderoxine; Alestrol; Becilan; Beesix; Benadon; Bonasanit; Campoviton 6; Gravidox; Hexa-Betalin; Hexavibex; Hexermin; Hexermine; Hexobion; Hydoxin; Nestrex; Pydox; Pyridipca; Pyridox; Rodex TD; Tex Six T.R.
+
+> <CHEMICAL_FORMULA>
+C8H11NO3
+
+> <MOLECULAR_WEIGHT>
+169.1778
+
+> <EXACT_MASS>
+169.073893223
+
+> <IUPAC_NAME>
+4,5-bis(hydroxymethyl)-2-methylpyridin-3-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO3/c1-5-8(12)7(4-11)6(3-10)2-9-5/h2,10-12H,3-4H2,1H3
+
+> <INCHI_KEY>
+InChIKey=LXNHXLLTXMVWPM-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(CO)C(CO)=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.4
+
+> <JCHEM_BASIC_PKA>
+5.58
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.57
+
+> <JCHEM_LOGP>
+-0.95
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+17.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.58
+
+> <JCHEM_REFRACTIVITY>
+44.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.61e+01 g/l __ __ 
+
+$$$$

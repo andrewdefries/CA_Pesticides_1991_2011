@@ -1,7 +1,7 @@
 DB08887
-ChemmineR-0317140121XD
- 
- 24 23  0  0  0  0            999 V2000
+ OpenBabel03181418042D
+
+ 24 23  0  0  0  0  0  0  0  0999 V2000
     3.7646  -11.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.4757  -11.6703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0535  -11.6703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,13 +57,13 @@ DB08887
 approved; nutraceutical
 
 > <GENERIC_NAME>
-Icosapent ethyl 
+Icosapent ethyl
 
 > <SYNONYMS>
 AMR101; Ethyl Eicosapentaenoate; Ethyl icosapentate ; Ethyl-Eicosapentaenoic Acid; Ethyl-EPA
 
 > <BRANDS>
-Epadel ; EPAX ; Vascepa 
+Epadel ; EPAX ; Vascepa
 
 > <CHEMICAL_FORMULA>
 C22H34O2
@@ -120,6 +120,6 @@ CCOC(=O)CCC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 15
 
 > <ALOGPS_SOLUBILITY>
-9.83e-05 g/l __  __ 
+9.83e-05 g/l __ __ 
 
 $$$$

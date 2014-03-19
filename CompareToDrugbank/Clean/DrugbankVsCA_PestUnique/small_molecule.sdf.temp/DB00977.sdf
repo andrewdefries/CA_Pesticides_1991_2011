@@ -1,0 +1,134 @@
+DB00977
+ OpenBabel03181421282D
+
+ 25 28  0  0  1  0  0  0  0  0999 V2000
+    7.0685    1.5551    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0920   -1.9997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5414    0.5186    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5414   -0.3064    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8269   -0.7189    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.3220    0.7700    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1124   -0.3064    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8269    0.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3220   -0.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1124    0.5186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8035    0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8402   -1.5783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5414    1.3436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3617   -0.7246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3550   -1.5839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9903    1.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5970   -0.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5833   -2.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8149   -0.6948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8081   -1.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6586    1.7376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6113   -0.9628    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4010   -1.0446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6840    0.0236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 23  1  6  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 24  1  1  0  0  0
+  6  1  1  1  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 25  1  6  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 22  3  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00977
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ethinyl Estradiol
+
+> <SYNONYMS>
+17 alpha-Ethinylestradiol; 17 alpha-Ethynylestradiol; 17 alpha-Ethynyloestradiol; 17-ethinyl-3,17-estradiol; 17-ethinyl-3,17-oestradiol; 17-ethinylestradiol; 17alpha-Ethinyl estradiol; 17α-ethynylestradiol; Ethinyl-Oestranol; Ethinylestradiol; Ethinylestradiolum [INN-Latin]; Ethinylestriol; Ethinyloestradiol; Ethynyl estradiol; Ethynylestradiol; Ethynyloestradiol; Etinilestradiol [INN-Spanish]
+
+> <BRANDS>
+Estinyl
+
+> <CHEMICAL_FORMULA>
+C20H24O2
+
+> <MOLECULAR_WEIGHT>
+296.4034
+
+> <EXACT_MASS>
+296.177630012
+
+> <IUPAC_NAME>
+(1S,10R,11S,14R,15S)-14-ethynyl-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-2(7),3,5-triene-5,14-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H24O2/c1-3-20(22)11-9-18-17-6-4-13-12-14(21)5-7-15(13)16(17)8-10-19(18,20)2/h1,5,7,12,16-18,21-22H,4,6,8-11H2,2H3/t16-,17-,18+,19+,20+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BFPYWIDHMRZLRN-SLHNCBLASA-N
+
+> <SMILES>
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.33
+
+> <JCHEM_BASIC_PKA>
+-1.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.9
+
+> <ALOGPS_LOGS>
+-4.6
+
+> <JCHEM_POLARIZABILITY>
+34.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+87.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.77e-03 g/l __ __ 
+
+$$$$

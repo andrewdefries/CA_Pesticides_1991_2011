@@ -1,0 +1,105 @@
+DB02775
+ OpenBabel03181419112D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02775
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzoic Acid Phenylmethylester
+
+> <CHEMICAL_FORMULA>
+C14H12O2
+
+> <MOLECULAR_WEIGHT>
+212.2439
+
+> <EXACT_MASS>
+212.083729628
+
+> <IUPAC_NAME>
+benzyl benzoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12O2/c15-14(13-9-5-2-6-10-13)16-11-12-7-3-1-4-8-12/h1-10H,11H2
+
+> <INCHI_KEY>
+InChIKey=SESFRYSPDFLNCH-UHFFFAOYSA-N
+
+> <SMILES>
+O=C(OCC1=CC=CC=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.43
+
+> <JCHEM_LOGP>
+3.7
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+22.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+62.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.98e-02 g/l __ __ 
+
+$$$$

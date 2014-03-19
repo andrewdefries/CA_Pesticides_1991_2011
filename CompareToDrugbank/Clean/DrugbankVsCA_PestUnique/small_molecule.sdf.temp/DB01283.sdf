@@ -1,0 +1,122 @@
+DB01283
+ OpenBabel03181421282D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    6.3799    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.4751    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -2.4751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    2.4751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01283
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Lumiracoxib
+
+> <SYNONYMS>
+COX 189
+
+> <BRANDS>
+Prexige; Prexige (Novartis)
+
+> <CHEMICAL_FORMULA>
+C15H13ClFNO2
+
+> <MOLECULAR_WEIGHT>
+293.721
+
+> <EXACT_MASS>
+293.061884577
+
+> <IUPAC_NAME>
+2-{2-[(2-chloro-6-fluorophenyl)amino]-5-methylphenyl}acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13ClFNO2/c1-9-5-6-13(10(7-9)8-14(19)20)18-15-11(16)3-2-4-12(15)17/h2-7,18H,8H2,1H3,(H,19,20)
+
+> <INCHI_KEY>
+InChIKey=KHPKQFYUPIUARC-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC(CC(O)=O)=C(NC2=C(F)C=CC=C2Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.11
+
+> <JCHEM_BASIC_PKA>
+-1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+4.31
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+28.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+75.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.49e-03 g/l __ __ 
+
+$$$$

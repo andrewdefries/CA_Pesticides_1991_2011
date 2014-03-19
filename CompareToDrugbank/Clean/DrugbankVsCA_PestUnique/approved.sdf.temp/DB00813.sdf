@@ -1,7 +1,7 @@
 DB00813
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 25 27  0  0  0  0            999 V2000
+ 25 27  0  0  0  0  0  0  0  0999 V2000
     1.6500    2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0791   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     3.0791    2.2688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ Fentanyl
 Fentanila [INN-Spanish]; Fentanyl citrate; Fentanylum [INN-Latin]
 
 > <BRANDS>
-Actiq; Duragesic; Duragesic-100; Durogesic; Fentanest; Fentanil; Nasalfent; Pentanyl; Phentanyl; Rapinyl; Sentonil; Subsys 
+Actiq; Duragesic; Duragesic-100; Durogesic; Fentanest; Fentanil; Nasalfent; Pentanyl; Phentanyl; Rapinyl; Sentonil; Subsys
 
 > <CHEMICAL_FORMULA>
 C22H28N2O
@@ -125,6 +125,6 @@ CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1
 6
 
 > <ALOGPS_SOLUBILITY>
-2.40e-02 g/l __  __ 
+2.40e-02 g/l __ __ 
 
 $$$$

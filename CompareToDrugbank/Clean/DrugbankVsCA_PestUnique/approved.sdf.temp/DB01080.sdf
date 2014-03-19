@@ -1,12 +1,12 @@
 DB01080
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
-  9  8  0  0  1  0            999 V2000
+  9  8  0  0  1  0  0  0  0  0999 V2000
     2.0930    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.8075    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.6655    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.2365    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     3.5220    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.9509   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.8075    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ Vigabatrin
 gamma-Vinyl GABA; GVG; Vigabatrin [USAN:BAN:INN]; Vigabatrina [Spanish]; Vigabatrine; Vigabatrine [French]; Vigabatrinum [Latin]
 
 > <BRANDS>
-Sabril; Sabrilan ; Sabrilex 
+Sabril; Sabrilan ; Sabrilex
 
 > <CHEMICAL_FORMULA>
 C6H11NO2
@@ -93,6 +93,6 @@ NC(CCC(O)=O)C=C
 4
 
 > <ALOGPS_SOLUBILITY>
-9.66e+01 g/l __  __ 
+9.66e+01 g/l __ __ 
 
 $$$$

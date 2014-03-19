@@ -1,0 +1,120 @@
+DB01075
+ OpenBabel03181421282D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    3.0791    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.2688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01075
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Diphenhydramine
+
+> <SYNONYMS>
+2-diphenylmethoxy-N,N-demthylethanamine; Diphenylhydramine; O-benzhydryldimethylaminoethanol; β-dimethylaminoethyl benzhydryl ether
+
+> <SALTS>
+Diphenhydramine Hcl; Diphenhydramine Salicylate
+
+> <BRANDS>
+Aleryl; Alledryl; Allerdryl; Allergan B; Allergeval; Allergical; Allergin; Allergina; Allergival; Allermax Caplets; Ambodryl; Amidryl; Antomin; Automin; Bagodryl; Banophen; Baramine; Beldin; Belix; Ben-Allergin; Bena; Benachlor; Benadrin; Benadryl; Benapon; Benodin; Benodine; Benylan; Benylin; Betramin; Compoz; Dabylen; Debendrin; Dermistina; Dermodrin; Desentol; Diabenyl; Diabylen; Dibendrin; Dibenil; Dibondrin; Difedryl; Dihidral; Dimedrol; Dimedryl; Diphantine; Diphen; Diphen Cough; Diphenhist; Dormarex 2; Dryistan; Drylistan; Dylamon; Etanautine; Genahist; Histaxin; Hyadrine; Hydramine; Hyrexin; Ibiodral; Medidryl; Mephadryl; Nausen; Nervine Nighttime Sleep-Aid; Novamina; Nytol Quickcaps; Nytol Quickgels; Probedryl; Restamin; Rigidil; Siladryl; Silphen; Sleep-Eze D; Syntedril; Syntodril; Twilite Caplets; Unisom Sleepgels Maximum Strength; Vena; Vicks Formula 44
+
+> <CHEMICAL_FORMULA>
+C17H21NO
+
+> <MOLECULAR_WEIGHT>
+255.3547
+
+> <EXACT_MASS>
+255.162314299
+
+> <IUPAC_NAME>
+[2-(diphenylmethoxy)ethyl]dimethylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21NO/c1-18(2)13-14-19-17(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,17H,13-14H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=ZZVUWRFHKOJYTH-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.44
+
+> <JCHEM_LOGP>
+3.65
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+29.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+79.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.52e-02 g/l __ __ 
+
+$$$$

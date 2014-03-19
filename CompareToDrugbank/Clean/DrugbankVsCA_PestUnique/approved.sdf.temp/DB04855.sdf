@@ -1,7 +1,7 @@
 DB04855
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 39 41  0  0  0  0            999 V2000
+ 39 41  0  0  0  0  0  0  0  0999 V2000
     2.3645   -1.8460    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
     6.0031   -2.9224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     9.4885   -0.1299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ Dronedarone
 SR33589
 
 > <SALTS>
-Dronedarone Hydrochloride 
+Dronedarone Hydrochloride
 
 > <BRANDS>
 Multaq
@@ -159,6 +159,6 @@ CCCCN(CCCC)CCCOC1=CC=C(C=C1)C(=O)C1=C(CCCC)OC2=C1C=C(NS(C)(=O)=O)C=C2
 17
 
 > <ALOGPS_SOLUBILITY>
-2.01e-03 g/l __  __ 
+2.01e-03 g/l __ __ 
 
 $$$$

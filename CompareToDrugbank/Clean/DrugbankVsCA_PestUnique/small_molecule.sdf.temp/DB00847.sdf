@@ -1,0 +1,91 @@
+DB00847
+ OpenBabel03181421282D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    4.2366    0.4620    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0931    0.0495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8076    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00847
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cysteamine
+
+> <SYNONYMS>
+(2-Mercaptoethyl)amine; 2-Amino-1-ethanethiol; 2-Aminoethanethiol; 2-Aminoethyl mercaptan; 2-Mercaptoethanamine; Aminoethyl mercaptan; beta-Aminoethanethiol; beta-MEA; beta-Mercaptoethylamine; Cisteamina; Cysteamide; Cysteamin; Cysteinamine; Decarboxycysteine; Ethanethiolamine; MEA; Mercamine; Mercaptamin; Thioethanolamine
+
+> <SALTS>
+CYSTEAMINE BITARTRATE ; CYSTEAMINE HYDROCHLORIDE
+
+> <BRANDS>
+Becaptan; Cystagon; Cystaran  ; Cystavision; Lambraten; Lambratene; Mecramine; Mercamin; Merkamin; Procysbi; Riacon
+
+> <CHEMICAL_FORMULA>
+C2H7NS
+
+> <MOLECULAR_WEIGHT>
+77.149
+
+> <EXACT_MASS>
+77.029919919
+
+> <IUPAC_NAME>
+2-aminoethane-1-thiol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7NS/c3-1-2-4/h4H,1-3H2
+
+> <INCHI_KEY>
+InChIKey=UFULAYFCSOUIOV-UHFFFAOYSA-N
+
+> <SMILES>
+NCCS
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.42
+
+> <JCHEM_BASIC_PKA>
+10.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.01
+
+> <JCHEM_LOGP>
+-0.42
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_POLARIZABILITY>
+8.65
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+22.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.35e+01 g/l __ __ 
+
+$$$$

@@ -1,7 +1,7 @@
 DB06637
-ChemmineR-0317140121XD
- 
-  7  7  0  0  0  0            999 V2000
+ OpenBabel03181418042D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
    12.7287  -10.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    12.7287  -11.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    13.4448  -11.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24,13 +24,13 @@ DB06637
 approved
 
 > <GENERIC_NAME>
-Dalfampridine 
+Dalfampridine
 
 > <SYNONYMS>
 4-Aminopyridine; 4-AP; EL-970; Fampridine; Fampridine-SR
 
 > <BRANDS>
-Ampyra ; Fampyra 
+Ampyra ; Fampyra
 
 > <CHEMICAL_FORMULA>
 C5H6N2
@@ -87,6 +87,6 @@ NC1=CC=NC=C1
 0
 
 > <ALOGPS_SOLUBILITY>
-2.71e+02 g/l __  __ 
+2.71e+02 g/l __ __ 
 
 $$$$

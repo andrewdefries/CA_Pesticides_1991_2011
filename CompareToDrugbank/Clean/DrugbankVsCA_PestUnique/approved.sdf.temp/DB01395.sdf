@@ -1,7 +1,7 @@
 DB01395
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 34 40  0  0  1  0            999 V2000
+ 34 40  0  0  1  0  0  0  0  0999 V2000
     3.3963   -1.6419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.6170   -3.0361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.8101    3.0361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,7 +36,6 @@ ChemmineR-0317140121XD
     2.8108    1.2677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.1216    0.3647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.0994    2.7439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-  9  1  1  1  0  0  0
   1 24  1  0  0  0  0
   2 24  2  0  0  0  0
   3 27  2  0  0  0  0
@@ -56,6 +55,7 @@ ChemmineR-0317140121XD
   8 11  1  0  0  0  0
   8 12  1  0  0  0  0
   8 31  1  1  0  0  0
+  9  1  1  1  0  0  0
   9 18  1  0  0  0  0
  11 13  1  0  0  0  0
  11 15  1  0  0  0  0
@@ -90,7 +90,7 @@ Drospirenone
 6β,7β,15β,16β-dimethylene-3-oxo-17α-pregn-4-ene-21,17 carbolactone; Drospirenona [inn-spanish]; Drospirenonum [inn-latin]; DRSP
 
 > <BRANDS>
-Safyral; Yasmin; Yaz 
+Safyral; Yasmin; Yaz
 
 > <CHEMICAL_FORMULA>
 C24H30O3
@@ -147,6 +147,6 @@ InChIKey=METQSPRSQINEEU-HXCATZOESA-N
 0
 
 > <ALOGPS_SOLUBILITY>
-2.25e-03 g/l __  __ 
+2.25e-03 g/l __ __ 
 
 $$$$

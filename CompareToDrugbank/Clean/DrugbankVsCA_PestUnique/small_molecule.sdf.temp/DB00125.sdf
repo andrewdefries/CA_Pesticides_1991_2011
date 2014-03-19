@@ -1,0 +1,104 @@
+DB00125
+ OpenBabel03181421282D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+   14.1789  -10.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8861  -11.0267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4544  -11.0061    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.6071  -10.6250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7815  -10.5666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4818  -11.8301    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3178  -11.0439    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0605  -10.9683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7540   -9.7392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0389  -10.6455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7461  -11.0644    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0492   -9.8182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  1  1  6  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00125
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Arginine
+
+> <SYNONYMS>
+(S)-2-Amino-5-guanidinovaleric acid; Arg; L-(+)-Arginine; L-Arg
+
+> <BRANDS>
+Argamine; Argivene; Detoxargin; Levargin; Minophagen A; R-Gene 10
+
+> <CHEMICAL_FORMULA>
+C6H14N4O2
+
+> <MOLECULAR_WEIGHT>
+174.201
+
+> <EXACT_MASS>
+174.111675712
+
+> <IUPAC_NAME>
+(2S)-2-amino-5-carbamimidamidopentanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N4O2/c7-4(5(11)12)2-1-3-10-6(8)9/h4H,1-3,7H2,(H,11,12)(H4,8,9,10)/t4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-N
+
+> <SMILES>
+N[C@@H](CCCNC(N)=N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+2.41
+
+> <JCHEM_BASIC_PKA>
+12.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.5
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+17.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.22
+
+> <JCHEM_REFRACTIVITY>
+53.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.28e+00 g/l __ __ 
+
+$$$$

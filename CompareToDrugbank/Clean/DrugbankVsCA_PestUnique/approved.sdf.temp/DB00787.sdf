@@ -1,7 +1,7 @@
 DB00787
-ChemmineR-0317140121XD
+ OpenBabel03181418042D
 
- 16 17  0  0  0  0            999 V2000
+ 16 17  0  0  0  0  0  0  0  0999 V2000
     6.0807    0.7122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.5220   -2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.4006    2.4506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ Acyclovir
 9-Hyroxyethoxymethylguanine; AC2; Aciclovier; Aciclovir Sodium; Acycloguanosine; Acyclovir; Acyclovir Sodium; Wellcome-248u
 
 > <SALTS>
-Acyclovir Sodium 
+Acyclovir Sodium
 
 > <BRANDS>
 Alti-Acyclovir; Avirax; Sitavig ; Vipral; Virorax; Zovir; Zovirax; Zovirax topical
@@ -112,6 +112,6 @@ NC1=NC(=O)C2=C(N1)N(COCCO)C=N2
 4
 
 > <ALOGPS_SOLUBILITY>
-9.08e+00 g/l __  __ 
+9.08e+00 g/l __ __ 
 
 $$$$
