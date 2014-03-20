@@ -33,8 +33,10 @@ rm: cannot remove `*.png': No such file or directory
 > ##data(sdfsample)
 > ##cid(sdfsample)<-sdfid(sdfsample)
 > ##sdfset<-sdfsample
-> files<-list.files(pattern=".sdf", recursive=F)
+> files<-list.files(pattern=".sdf.merge.sdf", recursive=F)
+> ####
 > t<-1
+> ####
 > sdfset<-read.SDFset(files[t])
 Warning message:
 In read.SDFset(files[t]) :
@@ -5707,4 +5709,4 @@ In cbind(1:length(png), nnm$names, himg) :
 > 
 > proc.time()
    user  system elapsed 
- 78.396   8.848  88.640 
+111.738  12.144 125.393 
