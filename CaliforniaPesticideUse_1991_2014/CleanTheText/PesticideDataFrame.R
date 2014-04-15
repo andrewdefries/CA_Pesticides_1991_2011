@@ -25,11 +25,12 @@ graph<-read.table(files[1], fill=TRUE, header=F)
 #rownames(graph)<-graph[,1]
 colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
 ########
-graphdf<-data.frame(graph, factor=graph$compound) ##[1,])
-write.table(graphdf, file="OutNSorted.table")
+#graphdf<-data.frame(graph, factor=graph$compound) ##[1,])
+#write.table(graphdf, file="OutNSorted.table")
 #graphdf<-data.frame(graph)
 ######
-#almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_used[sort.list(graph$compound)])
+almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_used[sort.list(graph$compound)], graph$year[sort.list(graph$compound)])
+write.table(almost, file="OutNSorted.table")
 ######
 #pdf(gsub(".txt.done", ".pdf", files[a]))
 #plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]$
