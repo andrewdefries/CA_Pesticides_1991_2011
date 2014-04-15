@@ -1,0 +1,69 @@
+
+R version 3.0.2 (2013-09-25) -- "Frisbee Sailing"
+Copyright (C) 2013 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> system("rm *.done.Year")
+> ##
+> system("./PasteYear.sh")
+> #system("for i in *.done 
+> #do
+> ####
+> #echo $i | sed 's/pdsd//g' | sed 's/.txt.done//g' > Year
+> #
+> #TheYear=`cat Year`
+> #
+> #sed "s|$| ${TheYear}|" $i > $i.Year
+> ####
+> #done")
+> ###########
+> system("cat *.done.Year > MergePesticides")
+> 
+> 
+> 
+> #replace above with gsub to get year from file name and use s.t. rep(name, n-times) and then 
+> 
+> 
+> ###########
+> files<-list.files(pattern="MergePesticides", recursive=F)
+> #################
+> graph<-read.table(files[1], fill=TRUE, header=F)
+> #########
+> #rownames(graph)<-graph[,1]
+> colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
+> ########
+> graphdf<-data.frame(graph, factor=graph[1,])
+Warning message:
+In data.frame(graph, factor = graph[1, ]) :
+  row names were found from a short variable and have been discarded
+> #graphdf<-data.frame(graph)
+> ######
+> #almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_used[sort.list(graph$compound)])
+> ######
+> #pdf(gsub(".txt.done", ".pdf", files[a]))
+> #plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]$
+> #dev.off()
+> #################
+> #}
+> #a<-1:length(files)
+> #lapply(a, Load)
+> 
+> proc.time()
+   user  system elapsed 
+  0.208   0.032   0.308 

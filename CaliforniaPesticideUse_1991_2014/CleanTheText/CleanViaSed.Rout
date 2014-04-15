@@ -1,0 +1,71 @@
+
+R version 3.0.2 (2013-09-25) -- "Frisbee Sailing"
+Copyright (C) 2013 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> #mkdir OutCaseFormat
+> #mv pdsd2005.txt pdsd2006.txt pdsd2007.txt pdsd2008.txt pdsd2010.txt OutCaseFormat/
+> ###########
+> system("for i in *.txt 
++ do
++ ##########
++ ########################################clean out lines containing headers and text, remove commas from values, remove some tabs and whitespace (consider removing)
++ sed '/Page/d' $i | sed '/STATE/d' | sed '/SOLD/d' | sed '/Active/d' | sed '/Total/d' | sed '/Registrants/d' | sed '/Number/d' | sed '/Chemicals/d' | sed 's/^    *$//g' | sed 's/ - //g' | sed '/^ *$/d' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed 's/ *$//' | sed 's/,//g' > $i.Cleaner 
++ ########################################
++ #######################################get just the names
++ cut -c 1-74 $i.Cleaner > $i.NamesToClean 
++ sed 's/^/\"/' $i.NamesToClean | sed 's/[ \t]*$//' | sed 's/$/\"/' | sed '$d' > Names
++ mv Names $i.NamesToClean
++ #######################################
++ cut -c 79-200 $i.Cleaner > $i.NumbersToClean
++ ###For testing
++ #echo $i > index
++ #cat index > $i.Out
++ #########join cleaned files
++ paste $i.NamesToClean $i.NumbersToClean > $i.Out
++ #########remove last line in file and everything after the decimal
++ sed '$d' $i.Out | sed s/\\.[^\\.]*$// > $i.done
++ #####
++ #sed -e '/./!d' $i.Out | sed '$d' | sed '$d' > $i.done
++ #######Fix output manually for line wrap problem
++ #pico $i.Out
++ #######
++ done")
+> ###########
+> files<-list.files(pattern=".done", recursive=F)
+> #
+> Load<-function(a){
++ #################
++ graph<-read.table(files[a], fill=TRUE, header=F)
++ ######### 
++ rownames(graph)<-graph[,1]
++ colnames(graph)<-c("compound", "registrants", "pesticides_used")
++ ########
++ pdf(gsub(".txt.done", ".pdf", files[a]))
++ plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]), ""), xlab="compound", ylab="pesticides applied (lb)")
++ dev.off()
++ #################
++ }
+> a<-1:length(files)
+> lapply(a, Load)
+Error in plot.window(...) : need finite 'xlim' values
+Calls: lapply ... FUN -> plot -> plot.default -> localWindow -> plot.window
+In addition: Warning messages:
+1: In xy.coords(x, y, xlabel, ylabel, log) : NAs introduced by coercion
+2: In min(x) : no non-missing arguments to min; returning Inf
+3: In max(x) : no non-missing arguments to max; returning -Inf
+Execution halted
