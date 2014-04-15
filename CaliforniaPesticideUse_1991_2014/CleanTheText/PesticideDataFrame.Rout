@@ -34,36 +34,29 @@ Type 'q()' to quit R.
 > #done")
 > ###########
 > system("cat *.done.Year > MergePesticides")
-> 
-> 
-> 
+> ##########
 > #replace above with gsub to get year from file name and use s.t. rep(name, n-times) and then 
-> 
-> 
+> ##########
 > ###########
 > files<-list.files(pattern="MergePesticides", recursive=F)
 > #################
 > graph<-read.table(files[1], fill=TRUE, header=F)
-> #########
+> ##########
 > #rownames(graph)<-graph[,1]
 > colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
 > ########
-> graphdf<-data.frame(graph, factor=graph[1,])
-Warning message:
-In data.frame(graph, factor = graph[1, ]) :
-  row names were found from a short variable and have been discarded
+> #graphdf<-data.frame(graph, factor=graph$compound) ##[1,])
+> #write.table(graphdf, file="OutNSorted.table")
 > #graphdf<-data.frame(graph)
 > ######
-> #almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_used[sort.list(graph$compound)])
+> almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_used[sort.list(graph$compound)], graph$year[sort.list(graph$compound)])
+> write.table(almost, file="OutNSorted.table")
 > ######
 > #pdf(gsub(".txt.done", ".pdf", files[a]))
-> #plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]$
-> #dev.off()
-> #################
-> #}
-> #a<-1:length(files)
-> #lapply(a, Load)
-> 
-> proc.time()
-   user  system elapsed 
-  0.208   0.032   0.308 
+> ######
+> system("sed '2d' OutNSorted.table > Ready")
+> graph<-read.table("Ready")
+> colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
+Error in `colnames<-`(`*tmp*`, value = c("compound", "registrants", "pesticides_used",  : 
+  'names' attribute [4] must be the same length as the vector [3]
+Execution halted

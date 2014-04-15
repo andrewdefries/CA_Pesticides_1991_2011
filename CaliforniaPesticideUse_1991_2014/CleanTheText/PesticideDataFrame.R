@@ -16,12 +16,11 @@ system("cat *.done.Year > MergePesticides")
 ##########
 #replace above with gsub to get year from file name and use s.t. rep(name, n-times) and then 
 ##########
-
 ###########
 files<-list.files(pattern="MergePesticides", recursive=F)
 #################
 graph<-read.table(files[1], fill=TRUE, header=F)
-#########
+##########
 #rownames(graph)<-graph[,1]
 colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
 ########
@@ -33,7 +32,27 @@ almost<-data.frame(graph$compound[sort.list(graph$compound)],graph$pesticides_us
 write.table(almost, file="OutNSorted.table")
 ######
 #pdf(gsub(".txt.done", ".pdf", files[a]))
+######
+system("sed '2d' OutNSorted.table > Ready")
+graph<-read.table("Ready")
+colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
+
+
+#by year
+#ShowMeTheDemon<-function(p){
+####
+
+####
+#}
+
+
+#plot(
+#graph
+
+######
 #plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]$
+
+
 #dev.off()
 #################
 #}

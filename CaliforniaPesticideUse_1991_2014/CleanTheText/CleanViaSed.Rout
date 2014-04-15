@@ -17,6 +17,8 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
+[Previously saved workspace restored]
+
 > #mkdir OutCaseFormat
 > #mv pdsd2005.txt pdsd2006.txt pdsd2007.txt pdsd2008.txt pdsd2010.txt OutCaseFormat/
 > ###########
@@ -27,18 +29,18 @@ Type 'q()' to quit R.
 + sed '/Page/d' $i | sed '/STATE/d' | sed '/SOLD/d' | sed '/Active/d' | sed '/Total/d' | sed '/Registrants/d' | sed '/Number/d' | sed '/Chemicals/d' | sed 's/^    *$//g' | sed 's/ - //g' | sed '/^ *$/d' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed 's/ *$//' | sed 's/,//g' > $i.Cleaner 
 + ########################################
 + #######################################get just the names
-+ cut -c 1-74 $i.Cleaner > $i.NamesToClean 
++ cut -c 1-70 $i.Cleaner > $i.NamesToClean 
 + sed 's/^/\"/' $i.NamesToClean | sed 's/[ \t]*$//' | sed 's/$/\"/' | sed '$d' > Names
 + mv Names $i.NamesToClean
 + #######################################
-+ cut -c 79-200 $i.Cleaner > $i.NumbersToClean
++ cut -c 76-200 $i.Cleaner > $i.NumbersToClean
 + ###For testing
 + #echo $i > index
 + #cat index > $i.Out
 + #########join cleaned files
 + paste $i.NamesToClean $i.NumbersToClean > $i.Out
 + #########remove last line in file and everything after the decimal
-+ sed '$d' $i.Out | sed s/\\.[^\\.]*$// > $i.done
++ sed '$d' $i.Out | sed s/\\.[^\\.]*$/0/ > $i.done
 + #####
 + #sed -e '/./!d' $i.Out | sed '$d' | sed '$d' > $i.done
 + #######Fix output manually for line wrap problem
@@ -62,10 +64,10 @@ Type 'q()' to quit R.
 + }
 > a<-1:length(files)
 > lapply(a, Load)
-Error in plot.window(...) : need finite 'xlim' values
-Calls: lapply ... FUN -> plot -> plot.default -> localWindow -> plot.window
+Error in `row.names<-.data.frame`(`*tmp*`, value = value) : 
+  duplicate 'row.names' are not allowed
+Calls: lapply ... rownames<- -> row.names<- -> row.names<-.data.frame
 In addition: Warning messages:
 1: In xy.coords(x, y, xlabel, ylabel, log) : NAs introduced by coercion
-2: In min(x) : no non-missing arguments to min; returning Inf
-3: In max(x) : no non-missing arguments to max; returning -Inf
+2: non-unique value when setting 'row.names': ‘1991’ 
 Execution halted

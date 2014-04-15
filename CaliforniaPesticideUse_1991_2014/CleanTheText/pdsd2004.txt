@@ -1073,43 +1073,3 @@
   ZINC PHOSPHIDE                                                                  10            17,024.40
   ZINC SULFATE                                                                     4            11,489.00
   ZIRAM                                                                            3           604,686.80
-
- No. Chemicals:    817
-
-
-
-
-                                                            Total Pounds:                   667,103,789.22
-
-
-
-
-                                                      Page 19
-                                 STATE OF CALIFORNIA
-                            PESTICIDES SOLD IN CALIFORNIA
-03/06/07                    Combined Report By Pesticide Type
-
-
-   PESTICIDE TYPE                                  PERCENT      TOTAL POUNDS
-
-ADJUVANT                                               49.061    291,738,815.52
-ALGAECIDE                                              30.184    179,485,961.73
-ANTIMICROBIAL                                           5.382     32,003,913.90
-AVICIDE                                                 0.001          5,178.32
-BACTERICIDE                                            10.459     62,196,305.78
-DEFOLIANT                                               0.327      1,946,004.55
-DESICCANT                                               0.012         69,066.88
-DISINFECTANT                                            0.443      2,636,562.22
-FERTILIZER                                              1.754     10,429,927.76
-FUNGICIDE                                               1.454      8,645,419.39
-GROWTH REGULATOR                                        0.415      2,468,200.96
-HERBICIDE                                               0.240      1,426,371.26
-INSECT GROWTH REGULATOR                                 0.038        228,135.07
-INSECTICIDE                                             0.227      1,349,280.68
-MOLLUSCICIDE                                            0.002         12,285.68
-REPELLENT                                               0.000            271.71
-SPECIAL ACTIVITY                                        0.000            182.61
-VERTEBRATE CONTROL                                      0.000            954.16
-
-           TOTAL OF ALL PESTICIDE TYPES               100.00%     594,642,838.16
-
