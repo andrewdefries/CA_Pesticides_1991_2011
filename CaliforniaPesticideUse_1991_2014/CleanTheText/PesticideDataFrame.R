@@ -34,27 +34,9 @@ write.table(almost, file="OutNSorted.table")
 #pdf(gsub(".txt.done", ".pdf", files[a]))
 ######
 system("sed '2d' OutNSorted.table > Ready")
+
 graph<-read.table("Ready")
 colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
 
 
-#by year
-#ShowMeTheDemon<-function(p){
-####
 
-####
-#}
-
-
-#plot(
-#graph
-
-######
-#plot(rownames(graph), graph$pesticides_used, type='h', main=paste("Pesticides used in CA", gsub(".txt.done", "", files[a]$
-
-
-#dev.off()
-#################
-#}
-#a<-1:length(files)
-#lapply(a, Load)

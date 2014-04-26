@@ -55,6 +55,7 @@ Type 'q()' to quit R.
 > #pdf(gsub(".txt.done", ".pdf", files[a]))
 > ######
 > system("sed '2d' OutNSorted.table > Ready")
+> 
 > graph<-read.table("Ready")
 > colnames(graph)<-c("compound", "registrants", "pesticides_used", "year")
 Error in `colnames<-`(`*tmp*`, value = c("compound", "registrants", "pesticides_used",  : 

@@ -21,12 +21,14 @@ Type 'q()' to quit R.
 
 > #mkdir OutCaseFormat
 > #mv pdsd2005.txt pdsd2006.txt pdsd2007.txt pdsd2008.txt pdsd2010.txt OutCaseFormat/
+> #######################################
+> #consider re-doing pdftotext using -raw
 > ###########
 > system("for i in *.txt 
 + do
 + ##########
 + ########################################clean out lines containing headers and text, remove commas from values, remove some tabs and whitespace (consider removing)
-+ sed '/Page/d' $i | sed '/STATE/d' | sed '/SOLD/d' | sed '/Active/d' | sed '/Total/d' | sed '/Registrants/d' | sed '/Number/d' | sed '/Chemicals/d' | sed 's/^    *$//g' | sed 's/ - //g' | sed '/^ *$/d' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed 's/ *$//' | sed 's/,//g' > $i.Cleaner 
++ sed '/Page/d' $i | sed '/STATE/d' | sed '/SOLD/d' | sed '/Active/d' | sed '/Total/d' | sed '/Registrants/d' | sed '/Number/d' | sed '/Chemicals/d' | sed 's/^    *$//g' | sed 's/ - //g' | sed '/^ *$/d' | sed 's/^[ \t]*//;s/[ \t]*$//' | sed 's/ *$//' | sed 's/,//g' > $i.Cleaner ######consider sed 's/,/_/g'
 + ########################################
 + #######################################get just the names
 + cut -c 1-70 $i.Cleaner > $i.NamesToClean 
