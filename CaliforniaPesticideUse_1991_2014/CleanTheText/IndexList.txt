@@ -1,4 +1,4 @@
-"graph.compound.sort.list.graph.compound.."
+"compound"
 "2" "0"
 "94" "1010'-OXYBISPHENOXYARSINE"
 "98" "12-BENZISOTHIAZOLIN-3-ONE"
