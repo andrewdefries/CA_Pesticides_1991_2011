@@ -8,3 +8,8 @@ TheYear=`cat Year`
 sed "s|$| ${TheYear}|" $i > $i.Year
 ####
 done
+
+
+#The above is crap
+
+cat MergePesticides | sed 's/.*\(.\{4\}$\).*/\1/' | uniq > Year
