@@ -36,8 +36,13 @@ data<-read.table(file="cleaneddata.txt", fill=T)
 
 This data was used to create a dataframe to graph pesticide sold per year in value of tons from 1991-2011. 
 
-The chemical names were used to lookup corresponding chemical structures. These chemical structures were then used to perform a chemical space analysis of compounds sold per year. 
+Chemical Space Analysis
+=======================
 
-The nearest neighbor tables may be viewed here:
+Chemical names were used to lookup corresponding molecular chemical structures. These chemical structures were then used to perform a chemical space analysis of compounds sold per year. 
 
-http://andrewdefries.github.io/
+Chemical similarity calculations were conducted using an atom-pair method where each connected atom-pair in a molecule is compared to the data set. The comparisons were accomplished using functions provided by the R library ChemmineR (http://www.bioconductor.org/packages/release/bioc/html/ChemmineR.html) and resulted in a Tanimoto similarity score used to group the dataset.
+
+
+
+The nearest neighbor tables may be viewed here: http://andrewdefries.github.io/
