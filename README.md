@@ -64,3 +64,34 @@ nnm <- nearestNeighbors(fpset,numNbrs=naebors)
 The nearest neighbor matrix (nnm) was used to create adjacency tables based on Tanimoto score. The nearest neighbor tables as html may viewed here: http://andrewdefries.github.io/
 
 The similarity relationships were further examined using cluster analysis provided in ChemmineR and atom-pair fingerprinting using fmcsR (http://www.bioconductor.org/packages/release/bioc/html/fmcsR.html).
+
+
+![Chemical cluster summary] (https://github.com/andrewdefries/CA_Pesticides_1991_2011/blob/master/ChemSpaceThat/MergeSDF/ClidNeighbors.png, "Chemical cluster summary")
+
+The image above is a quick way to look summerize cluster groups (here called CLIDs on the y-axis) at multiple Tanimoto similarity coefficients cutoffs from 50-80% atom-pair similarity. Similar compounds can be found on in a line parallel to the x-axis. The x-axis represents the original unsorted compound index number. Note as the Tanimoto coefficient increases to 0.8 or 80% similarity cuffoff the CLID members decrease. 
+
+```
+library(ChemmineR)
+
+sdfset<-read.SDFset("CA_PesticidesMerge_Unique.sdf")
+
+apset<-sdf2ap(sdfset)
+
+cid(sdfset)<-sdfid(sdfset)
+
+# cluster with multiple cutoffs
+cluster<-cmp.cluster(apset, cutoff=c(0.5,0.6,0.7,0.8))
+
+png(file="ClidNeighbors.png")
+
+# setup 2x2 plot
+par(mfrow = c(2,2))
+
+# use index to reverse lookup compounds from graph
+plot.default(x=rownames(cluster), y=cluster$CLID_0.5, ylim=c(0,160))
+plot.default(x=rownames(cluster), y=cluster$CLID_0.6, ylim=c(0,160))
+plot.default(x=rownames(cluster), y=cluster$CLID_0.7, ylim=c(0,160))
+plot.default(x=rownames(cluster), y=cluster$CLID_0.8, ylim=c(0,160))
+dev.off()
+```
+
