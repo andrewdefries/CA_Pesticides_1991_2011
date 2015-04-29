@@ -6,6 +6,10 @@ The California Department of Pesticide Regulation provides detailed reports of p
 
 http://www.cdpr.ca.gov/docs/mill/nopdsold.htm
 
+Quoting the site
+
+"FDA is making available a Glossary of alternative names for pesticides and related chemicals in Adobe Portable Document Format (PDF) format. The Glossary contains entries for 1045 chemicals. Most of the chemicals included in this glossary are pesticides used during the production of foods or animal feeds. The main part of the Glossary contains additional information about each chemical, including molecular formula and references to sections of Code of Federal Regulations Title 40 that list tolerances on foods and feeds. The Glossary also includes an index which directs the user to the main entry name for each alternative name."
+
 The data was provided in PDF format, and required manipulation to import into R for further analysis. Plain text was extracted from PDF files by 
 
 ```
